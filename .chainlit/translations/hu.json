@@ -1,0 +1,229 @@
+{
+    "components": {
+        "atoms": {
+            "buttons": {
+                "userButton": {
+                    "menu": {
+                        "settings": "Beállítások",
+                        "settingsKey": "B",
+                        "APIKeys": "API Kulcsok",
+                        "logout": "Kijelentkezés"
+                    }
+                }
+            }
+        },
+        "molecules": {
+            "newChatButton": {
+                "newChat": "Új Chat"
+            },
+            "tasklist": {
+                "TaskList": {
+                    "title": "\ud83d\uddd2\ufe0f Feladatlista",
+                    "loading": "Betöltés...",
+                    "error": "Hiba történt"
+                }
+            },
+            "attachments": {
+                "cancelUpload": "Feltöltés megszakítása",
+                "removeAttachment": "Csatolmány eltávolítása"
+            },
+            "newChatDialog": {
+                "createNewChat": "Új chat létrehozása?",
+                "clearChat": "Ez törli a jelenlegi üzeneteket és új chatet indít.",
+                "cancel": "Mégse",
+                "confirm": "Megerősít"
+            },
+            "settingsModal": {
+                "settings": "Beállítások",
+                "expandMessages": "Üzenetek kibontása",
+                "hideChainOfThought": "Gondolatmenet elrejtése",
+                "darkMode": "Sötét mód"
+            },
+            "detailsButton": {
+                "using": "Használatban: ",
+                "used": "Használt eszköz: "
+            },
+            "auth": {
+                "authLogin": {
+                    "title": "Jelentkezz be az alkalmazás eléréséhez.",
+                    "form": {
+                        "email": "Email cím",
+                        "password": "Jelszó",
+                        "noAccount": "Nincs fiókja?",
+                        "alreadyHaveAccount": "Már van fiókja?",
+                        "signup": "Regisztráció",
+                        "signin": "Bejelentkezés",
+                        "or": "VAGY",
+                        "continue": "Folytatás",
+                        "forgotPassword": "Elfelejtetted a jelszavad?",
+                        "passwordMustContain": "A jelszónak tartalmaznia kell:",
+                        "emailRequired": "az email kötelező mező",
+                        "passwordRequired": "a jelszó kötelező mező"
+                    },
+                    "error": {
+                        "default": "Nem sikerült bejelentkezni.",
+                        "signin": "Próbálj meg bejelentkezni egy másik fiókkal.",
+                        "oauthsignin": "Próbálj meg bejelentkezni egy másik fiókkal.",
+                        "redirect_uri_mismatch": "Az átirányítási URI nem egyezik az oauth alkalmazás konfigurációjával.",
+                        "oauthcallbackerror": "Próbálj meg bejelentkezni egy másik fiókkal.",
+                        "oauthcreateaccount": "Próbálj meg bejelentkezni egy másik fiókkal.",
+                        "emailcreateaccount": "Próbálj meg bejelentkezni egy másik fiókkal.",
+                        "callback": "Próbálj meg bejelentkezni egy másik fiókkal.",
+                        "oauthaccountnotlinked": "Azonosításod megerősítéséhez jelentkezz be az eredetileg használt fiókkal.",
+                        "emailsignin": "Az e-mailt nem sikerült elküldeni.",
+                        "emailverify": "Kérlek, erősítsd meg az e-mail címet, új e-mailt küldtünk.",
+                        "credentialssignin": "A bejelentkezés nem sikerült. Ellenőrizd, hogy a megadott adatok helyesek-e.",
+                        "sessionrequired": "Kérlek, jelentkezz be az oldal eléréséhez."
+                    }
+                },
+                "authVerifyEmail": {
+                    "almostThere": "Majdnem kész! Küldtünk egy e-mailt a következő címre: ",
+                    "verifyEmailLink": "Kérjük, kattintson az e-mailben található linkre a regisztráció befejezéséhez.",
+                    "didNotReceive": "Nem találja az e-mailt?",
+                    "resendEmail": "E-mail újraküldése",
+                    "goBack": "Vissza",
+                    "emailSent": "Az e-mail sikeresen elküldve.",
+                    "verifyEmail": "Erősítse meg az e-mail címét"
+                },
+                "providerButton": {
+                    "continue": "Folytatás {{provider}}-val",
+                    "signup": "Regisztráció {{provider}}-val"
+                },
+                "authResetPassword": {
+                    "newPasswordRequired": "Az új jelszó kötelező mező",
+                    "passwordsMustMatch": "A jelszavaknak egyezniük kell",
+                    "confirmPasswordRequired": "A jelszó megerősítése kötelező mező",
+                    "newPassword": "Új jelszó",
+                    "confirmPassword": "Jelszó megerősítése",
+                    "resetPassword": "Jelszó visszaállítása"
+                },
+                "authForgotPassword": {
+                    "email": "Email cím",
+                    "emailRequired": "az email kötelező mező",
+                    "emailSent": "Kérjük, ellenőrizze az e-mail címét {{email}} a jelszó visszaállítására vonatkozó utasításokért.",
+                    "enterEmail": "Adja meg az e-mail címét, és küldünk utasításokat a jelszó visszaállításához.",
+                    "resendEmail": "E-mail újraküldése",
+                    "continue": "Folytatás",
+                    "goBack": "Vissza"
+                }
+            }
+        },
+        "organisms": {
+            "chat": {
+                "history": {
+                    "index": {
+                        "showHistory": "Előzmények megjelenítése",
+                        "lastInputs": "Utolsó bevitelek",
+                        "noInputs": "Ilyen üres...",
+                        "loading": "Betöltés..."
+                    }
+                },
+                "inputBox": {
+                    "input": {
+                        "placeholder": "Írd be az üzenetet ide..."
+                    },
+                    "speechButton": {
+                        "start": "Felvétel indítása",
+                        "stop": "Felvétel leállítása"
+                    },
+                    "SubmitButton": {
+                        "sendMessage": "Üzenet küldése",
+                        "stopTask": "Feladat leállítása"
+                    },
+                    "UploadButton": {
+                        "attachFiles": "Fájlok csatolása"
+                    },
+                    "waterMark": {
+                        "text": "Készült"
+                    }
+                },
+                "Messages": {
+                    "index": {
+                        "running": "Fut",
+                        "executedSuccessfully": "sikeresen végrehajtva",
+                        "failed": "sikertelen",
+                        "feedbackUpdated": "Visszajelzés frissítve",
+                        "updating": "Frissítés"
+                    }
+                },
+                "dropScreen": {
+                    "dropYourFilesHere": "Csatold a fájlokat"
+                },
+                "index": {
+                    "failedToUpload": "Nem sikerült feltölteni",
+                    "cancelledUploadOf": "Feltöltés megszakítva",
+                    "couldNotReachServer": "Nem sikerült elérni a szervert",
+                    "continuingChat": "Előző chat folytatása"
+                },
+                "settings": {
+                    "settingsPanel": "Beállítások panel",
+                    "reset": "Visszaállítás",
+                    "cancel": "Mégse",
+                    "confirm": "Megerősít"
+                }
+            },
+            "threadHistory": {
+                "sidebar": {
+                    "filters": {
+                        "FeedbackSelect": {
+                            "feedbackAll": "Visszajelzés: Mind",
+                            "feedbackPositive": "Visszajelzés: Pozitív",
+                            "feedbackNegative": "Visszajelzés: Negatív"
+                        },
+                        "SearchBar": {
+                            "search": "Keresés"
+                        }
+                    },
+                    "DeleteThreadButton": {
+                        "confirmMessage": "Ez törli a szálat, valamint annak üzeneteit és elemeit.",
+                        "cancel": "Mégse",
+                        "confirm": "Megerősít",
+                        "deletingChat": "Chat törlése",
+                        "chatDeleted": "Chat törölve"
+                    },
+                    "index": {
+                        "pastChats": "Korábbi chatek"
+                    },
+                    "ThreadList": {
+                        "empty": "Üres...",
+                        "today": "Ma",
+                        "yesterday": "Tegnap",
+                        "previous7days": "Előző 7 nap",
+                        "previous30days": "Előző 30 nap"
+                    },
+                    "TriggerButton": {
+                        "closeSidebar": "Oldalsáv bezárása",
+                        "openSidebar": "Oldalsáv megnyitása"
+                    }
+                },
+                "Thread": {
+                    "backToChat": "Vissza a chathez",
+                    "chatCreatedOn": "Ez a chat létrehozva"
+                }
+            },
+            "header": {
+                "chat": "Chat",
+                "readme": "Olvassel"
+            }
+        }
+    },
+    "hooks": {
+        "useLLMProviders": {
+            "failedToFetchProviders": "Nem sikerült lekérni a szolgáltatókat:"
+        }
+    },
+    "pages": {
+        "Design": {},
+        "Env": {
+            "savedSuccessfully": "Sikeresen mentve",
+            "requiredApiKeys": "Szükséges API kulcsok",
+            "requiredApiKeysInfo": "Az alkalmazás használatához a következő API kulcsok szükségesek. A kulcsok az eszköz helyi tárolójában kerülnek tárolásra."
+        },
+        "Page": {
+            "notPartOfProject": "Nem része ennek a projektnek."
+        },
+        "ResumeButton": {
+            "resumeChat": "Chat folytatása"
+        }
+    }
+}

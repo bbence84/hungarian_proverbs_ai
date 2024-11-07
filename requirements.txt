@@ -1,0 +1,2 @@
+semantic-kernel==1.12.1
+chainlit==1.1.306

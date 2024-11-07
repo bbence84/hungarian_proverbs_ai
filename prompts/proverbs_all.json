@@ -1,0 +1,2638 @@
+[
+  {
+    "proverb": "A harag rossz tanácsadó!",
+    "meaning": "Mérgesen nem biztos, hogy a jó döntést hozzuk meg."
+  },
+  {
+    "proverb": "A hazug embert hamarabb utolérik, mint a sánta kutyát.",
+    "meaning": "A hazug embert hamar leleplezik."
+  },
+  {
+    "proverb": "A hetedik mennyországban érzi magát.",
+    "meaning": "Nagyon boldog, nagyon örül valaminek."
+  },
+  {
+    "proverb": "A jó pap holtig tanul.",
+    "meaning": "Mindig tanulhatunk valami újat."
+  },
+  {
+    "proverb": "A könnyebb végét fogja a dolognak.",
+    "meaning": "Az egyszerűbb, kevésbé fárasztó munkát választja."
+  },
+  {
+    "proverb": "A lónak négy lába van, mégis megbotlik.",
+    "meaning": "Mindenki (még az okos is) hibázhat, tévedhet."
+  },
+  {
+    "proverb": "A mi kutyánk kölyke.",
+    "meaning": "Rokon, a rokonságból való."
+  },
+  {
+    "proverb": "A nagy hal megeszi a kis halat.",
+    "meaning": "Általában az erősebb győz."
+  },
+  {
+    "proverb": "A rövidebbet húzza.",
+    "meaning": "Rosszabbul jár, vesztes marad a vetélkedésben."
+  },
+  {
+    "proverb": "A süllyedő hajót elhagyják a patkányok.",
+    "meaning": "A kevésbé tisztességes emberek a bajban cserbenhagyják a társaikat."
+  },
+  {
+    "proverb": "A szerelem vak.",
+    "meaning": "Az érzelmeket nem lehet irányítani."
+  },
+  {
+    "proverb": "A szükség a legnagyobb tanítómester.",
+    "meaning": "Sokszor kényszerhelyzetekben születnek a legjobb megoldások."
+  },
+  {
+    "proverb": "A tenyerén hord valakit.",
+    "meaning": "Kényeztet, nagyon megbecsül valakit."
+  },
+  {
+    "proverb": "A tiltott gyümölcs a legédesebb.",
+    "meaning": "Ami tilos, az mindig jobban vonzza az embereket."
+  },
+  {
+    "proverb": "A vén kecske is megnyalja a sót.",
+    "meaning": "Még az öreg ember is képes szerelembe esni."
+  },
+  {
+    "proverb": "A baj nem jár egyedül.",
+    "meaning": "Egyik problémából adódik másik."
+  },
+  {
+    "proverb": "A béka feneke alatt van.",
+    "meaning": "A legrosszabb állapotban van."
+  },
+  {
+    "proverb": "A betyárból lesz a legjobb pandúr.",
+    "meaning": "A bűnözőből lesz a jó rendőr, mert ismeri a \"szakmát\"."
+  },
+  {
+    "proverb": "A cél szentesíti az eszközt.",
+    "meaning": "Egy jó eredmény elérése érdekében, kevésbé megengedett eszközöket is használhatunk."
+  },
+  {
+    "proverb": "A falnak is füle van.",
+    "meaning": "Nem marad titokban."
+  },
+  {
+    "proverb": "A farok csóválja a kutyát.",
+    "meaning": "Amikor fordítva működnek a dolgok. Például a gyerek irányítja a szüleit."
+  },
+  {
+    "proverb": "A gombhoz varrja a kabátot.",
+    "meaning": "Nagy költségekbe veri magát, hogy egy kis értéket megmentsen."
+  },
+  {
+    "proverb": "A hallgatás beleegyezés.",
+    "meaning": "Aki nem mondja el a véleményét, az belegyezik abba, ami elhangzott."
+  },
+  {
+    "proverb": "A határ a csillagos ég.",
+    "meaning": "Bármi megtörténhet."
+  },
+  {
+    "proverb": "A hóhért akasztják.",
+    "meaning": "Annak látják el a baját, aki rosszul bánt másokkal."
+  },
+  {
+    "proverb": "A holtakról vagy jót vagy semmit.",
+    "meaning": "Nem szép dolog halott emberről rosszat mondani."
+  },
+  {
+    "proverb": "A jég hátán is megél.",
+    "meaning": "Bárhol megállja a helyét, feltalálja magát!"
+  },
+  {
+    "proverb": "A jó elnyeri méltó jutalmát.",
+    "meaning": "A jó cselekedeteket legtöbb esetben elismerés, dicséret követi."
+  },
+  {
+    "proverb": "A kákán is csomót keres.",
+    "meaning": "Még a tökéletesen is a hibát keresi."
+  },
+  {
+    "proverb": "A kecske is jól lakik és a káposzta is megmarad.",
+    "meaning": "Mindenki jól jár a végén."
+  },
+  {
+    "proverb": "A kibicnek semmi sem drága.",
+    "meaning": "Amit kockáztat, az nem az ő vesztesége lesz."
+  },
+  {
+    "proverb": "A kivétel erősíti a szabályt.",
+    "meaning": "A legtöbb szabály alól van kivétel."
+  },
+  {
+    "proverb": "A látszat csal.",
+    "meaning": "Nem minden pont olyan, mint ahogy azt első ránézésre gondolnánk."
+  },
+  {
+    "proverb": "A mór megtette a kötelességét, a mór mehet.",
+    "meaning": "Valakivel csak addig vagyunk kedvesek, amíg hasznunkra van, utána elküldjük. Érdek kapcsolat."
+  },
+  {
+    "proverb": "A pénznek nincs szaga.",
+    "meaning": "Mindegy, hogy honnan ered a pénz, lényeg, hogy jó sok legyen belőle."
+  },
+  {
+    "proverb": "A pokol országútja is jó szándékkal van kikövezve.",
+    "meaning": "Nem minden jó szándékú segítség őszinte, félre is vezethet."
+  },
+  {
+    "proverb": "A puding próbája az, hogy megeszik.",
+    "meaning": "A gyakorlatban derült ki, hogy az elgondolt elmélet megfelelő-e?"
+  },
+  {
+    "proverb": "A rest kétszer fárad.",
+    "meaning": "Aki lusta rendesen elvégezni a dolgát, annak sokszor újra kell kezdenie elölről az egészet."
+  },
+  {
+    "proverb": "A sorok között olvas.",
+    "meaning": "Néhány elejtett mondatból is meglátja a lényeget."
+  },
+  {
+    "proverb": "A szegény embert még az ág is húzza.",
+    "meaning": "Már eleve szerencsétlen helyzetbe került embert további baj ér."
+  },
+  {
+    "proverb": "A szomszéd kertje mindig zöldebb.",
+    "meaning": "A másé mindig kívánatosabb."
+  },
+  {
+    "proverb": "A szőnyeg alá söpri a kérdést/problémát.",
+    "meaning": "Nem törődik a problémával."
+  },
+  {
+    "proverb": "A szúnyogból is elefántot csinál.",
+    "meaning": "Felfújja az ügyet. A legkisebb rosszat is nagy bajnak látja."
+  },
+  {
+    "proverb": "A tisztaság fél egészség.",
+    "meaning": "Egészségünket szolgáljuk azzal, ha tisztán tartjuk magunkat és környezetünket."
+  },
+  {
+    "proverb": "A tudás hatalom.",
+    "meaning": "A tudás senkitől el nem vehető, azzal számos kapu megnyílik előttünk, több lehetőséghez jutunk."
+  },
+  {
+    "proverb": "A türelem rózsát terem.",
+    "meaning": "A türelemnek, a kitartásnak meglesz az eredménye."
+  },
+  {
+    "proverb": "A vér nem válik vízzé.",
+    "meaning": "Nem tud valaki gyökeresen megváltozni."
+  },
+  {
+    "proverb": "A verebek is csiripelik.",
+    "meaning": "Mindenki tud róla, beszél róla."
+  },
+  {
+    "proverb": "A zavarosban halászik.",
+    "meaning": "Kihasználja a bizonytalan helyzet adta lehetőséget."
+  },
+  {
+    "proverb": "Abrak pucolja a lovat.",
+    "meaning": "A ló szőre akkor fényes, ha rendszeresen kap enni."
+  },
+  {
+    "proverb": "Add meg a császárnak, ami a császáré, és az Istennek, ami az Istené.",
+    "meaning": "Akkor van rend, ha mindenki azt kapja, amit érdemel."
+  },
+  {
+    "proverb": "Addig hajtsd a fát, míg vessző.",
+    "meaning": "Addig neveld a gyereket, amíg könnyen tanítható és irányítható."
+  },
+  {
+    "proverb": "Addig jár a korsó a kútra, míg el nem törik.",
+    "meaning": "Addig kockáztat az ember, míg végül pórul jár."
+  },
+  {
+    "proverb": "Addig nyújtózkodj, ameddig a takaród ér.",
+    "meaning": "A lehetőségeidhez mérten alakítsd vágyaidat."
+  },
+  {
+    "proverb": "Addig üsd a vasat, míg meleg.",
+    "meaning": "Időben végezd el a feladatodat."
+  },
+  {
+    "proverb": "Adj a tótnak szállást, kiver a házadból.",
+    "meaning": "Jól nézd meg, hogy kiben bízol meg."
+  },
+  {
+    "proverb": "Adja a bankot.",
+    "meaning": "Nagyképűsködik."
+  },
+  {
+    "proverb": "Ágrólszakadt ember.",
+    "meaning": "Tépett ruhájú, elhanyagolt öltözetű, szánalmas külsejű."
+  },
+  {
+    "proverb": "Ágy alá temette minden szerencséjét.",
+    "meaning": "Semmihez nincs szerencséje."
+  },
+  {
+    "proverb": "Ágyúval lő verébre.",
+    "meaning": "Aránytalanul nagy dolgot használ kis ügyek elintézésére."
+  },
+  {
+    "proverb": "Ahány ház, annyi szokás.",
+    "meaning": "A szokások közösségenként változnak."
+  },
+  {
+    "proverb": "Ahogy esik, úgy puffan.",
+    "meaning": "Ahogy hozzáállsz a dolgokhoz, úgy fog sikerülni."
+  },
+  {
+    "proverb": "Ahol nagy a szükség, közel a segítség.",
+    "meaning": "Minden problémára van megoldás."
+  },
+  {
+    "proverb": "Ajándék lónak ne nézd a fogát!",
+    "meaning": "Az ajándékot ne bíráld, hogy mennyire értékes."
+  },
+  {
+    "proverb": "Ajtóstul ront be a házba.",
+    "meaning": "Előkészítés nélkül mond el rossz hírt, kérést."
+  },
+  {
+    "proverb": "Akasztófa címere.",
+    "meaning": "Gazember."
+  },
+  {
+    "proverb": "Aki á-t mond, mondjon b-t is.",
+    "meaning": "Ha belefogsz valamibe, folytasd, csináld végig."
+  },
+  {
+    "proverb": "Aki hibátlan lovat keres, járhat gyalog.",
+    "meaning": "Semmi sem tökéletes a világon, sokszor lejjebb kell adni a mércét."
+  },
+  {
+    "proverb": "Aki könnyen hisz, könnyen csalatkozik.",
+    "meaning": "A hiszékeny ember, többet csalódik."
+  },
+  {
+    "proverb": "Aki másnak vermet ás, maga esik bele.",
+    "meaning": "A gonosz szándékú, másoknak ártani akaró ember sokszor magának árt a legtöbbet."
+  },
+  {
+    "proverb": "Aki nem tud arabusul, ne beszéljen arabusul.",
+    "meaning": "Aki nem ért hozzá, ne tegyen úgy, mintha értené."
+  },
+  {
+    "proverb": "Aki nem dolgozik, ne is egyék.",
+    "meaning": "A lusta ember nem érdemel semmit."
+  },
+  {
+    "proverb": "Aki nincs ellenünk, az velünk van.",
+    "meaning": "Aki nem ellenkezik, az egyetért velünk."
+  },
+  {
+    "proverb": "Aki sokat ígér, keveset ad.",
+    "meaning": "Aki túl sokat vállal, keveset tud teljesíteni."
+  },
+  {
+    "proverb": "Aki bírja, marja.",
+    "meaning": "Azé lesz, aki az ügyesebb."
+  },
+  {
+    "proverb": "Aki hazudik, az lop is.",
+    "meaning": "Aki már egy bűnt elkövet, az többre is képes."
+  },
+  {
+    "proverb": "Aki keres, talál.",
+    "meaning": "Az eredményért tenni is kell."
+  },
+  {
+    "proverb": "Aki korpa közé keveredik, megeszik a disznók.",
+    "meaning": "Aki rossz társaságba keveredik, maga is rossz lesz."
+  },
+  {
+    "proverb": "Aki mer, az nyer.",
+    "meaning": "Aki küzd, az előbb-utóbb eléri célját!"
+  },
+  {
+    "proverb": "Aki szelet vet, vihart arat.",
+    "meaning": "Aki viszályt szít, olyan helyzetet teremt, amiből saját magának is baja származik."
+  },
+  {
+    "proverb": "Akinek nem inge, ne vegye magára.",
+    "meaning": "Akit nem érint a dolog, ne foglalkozzon vele."
+  },
+  {
+    "proverb": "Akinek vaj van a fején, ne menjen a napra.",
+    "meaning": "Kisebb bűnt követett el, de még nem bizonyították rá."
+  },
+  {
+    "proverb": "Akkor lássam, amikor a hátam közepét.",
+    "meaning": "Soha nem akarom látni."
+  },
+  {
+    "proverb": "Aknát ás.",
+    "meaning": "Cselszövésen dolgozik valaki ellen."
+  },
+  {
+    "proverb": "Alkalom szüli a tolvajt.",
+    "meaning": "Ha lehetőség nyílik valamire, azt valaki ki fogja használni."
+  },
+  {
+    "proverb": "Állok elébe.",
+    "meaning": "Elfogadja a kihívást."
+  },
+  {
+    "proverb": "Alszik, mint a bunda.",
+    "meaning": "Nagyon mélyen alszik."
+  },
+  {
+    "proverb": "Amelyik kutya ugat, az nem harap.",
+    "meaning": "A hangoskodó, nagyszájú embernek csak a szája jár, de nem veszélyes."
+  },
+  {
+    "proverb": "Ami a szívén, az a száján/nyelvén.",
+    "meaning": "Őszintén elmondja érzelmeit."
+  },
+  {
+    "proverb": "Ami nem megy, nem kell erőltetni.",
+    "meaning": "A nehéz dolgokkal nem kell mindig küzdeni."
+  },
+  {
+    "proverb": "Ami késik, nem múlik.",
+    "meaning": "Ami elsőre nem sikerül, azt türelemmel kitartással el lehet érni."
+  },
+  {
+    "proverb": "Amilyen a fa, olyan a gyümölcse.",
+    "meaning": "A gyerek a szüleire üt, hasonlít."
+  },
+  {
+    "proverb": "Amilyen a kérdés, olyan a felelet.",
+    "meaning": "Ahogy közelítünk másokhoz, úgy viszonyulnak hozzánk."
+  },
+  {
+    "proverb": "Amilyen az adjonisten, olyan a fogadjisten.",
+    "meaning": "Ahogy másokkal viselkedsz, ők is úgy viselkednek veled."
+  },
+  {
+    "proverb": "Amint fújják, úgy táncol.",
+    "meaning": "Minden önállóság nélkül kiszolgál másokat. Kérdés nélkül teljesít minden parancsot."
+  },
+  {
+    "proverb": "Amit nyer a réven, elveszti a vámon.",
+    "meaning": "Amit valahol megspórolt, azt máshol megfizeti. Látszólagos a nyereség."
+  },
+  {
+    "proverb": "Amit szabad Jupiternek, nem szabad a kisökörnek.",
+    "meaning": "Ami megengedett a felnőtteknek, nem feltétlen szabad a gyerekeknek is."
+  },
+  {
+    "proverb": "Amit főztél, edd is meg!",
+    "meaning": "Vállald a tetteid következményét."
+  },
+  {
+    "proverb": "Amit ma megtehetsz, ne halaszd holnapra.",
+    "meaning": "Mielőbb végezd el a munkádat."
+  },
+  {
+    "proverb": "Angyal szállt el a szobában.",
+    "meaning": "A társaságban hirtelen csend támad."
+  },
+  {
+    "proverb": "Annyian vannak, mint az oroszok.",
+    "meaning": "Túl sok van belőlük."
+  },
+  {
+    "proverb": "Apád nem volt üveges.",
+    "meaning": "Nem látok tőled. Eltakarod amit néznék."
+  },
+  {
+    "proverb": "Áprilist járat valakivel.",
+    "meaning": "Bolonddá tesz, becsap valakit."
+  },
+  {
+    "proverb": "Ár ellen nehéz úszni.",
+    "meaning": "A többség ellen nehéz tenni."
+  },
+  {
+    "proverb": "Árnyékáért becsülik a vén fát!",
+    "meaning": "A bölcsességükért becsülik meg az idős embereket."
+  },
+  {
+    "proverb": "Ártatlan, mint a ma született bárány.",
+    "meaning": "Teljesen ártatlan."
+  },
+  {
+    "proverb": "Árva, mint az ágon ülő madár.",
+    "meaning": "Nagyon elhagyatott, teljesen árva."
+  },
+  {
+    "proverb": "Átesett a ló túlsó oldalára.",
+    "meaning": "Az ellenkező végletbe esik."
+  },
+  {
+    "proverb": "Átveszi/Átadja a stafétabotot.",
+    "meaning": "Valamit folytat."
+  },
+  {
+    "proverb": "Az ablakon szórja ki a pénzt.",
+    "meaning": "Meggondolatlanul költekezik, pazarol."
+  },
+  {
+    "proverb": "Az anyatejjel szív magába valamit.",
+    "meaning": "Kiskora óta képes valamire."
+  },
+  {
+    "proverb": "Az eget is bőgőnek nézi.",
+    "meaning": "Nagyon megverték, vagy berúgott."
+  },
+  {
+    "proverb": "Az én házam az én váram.",
+    "meaning": "Az én otthonomban az én szavam dönt. Más: Az otthonom olyan amilyen, de nekem kedves és ott jól érzem magam."
+  },
+  {
+    "proverb": "Az öreg á-t sem ismeri.",
+    "meaning": "Teljesen tanulatlan."
+  },
+  {
+    "proverb": "Az ujjából szopta.",
+    "meaning": "Nincs alapja annak amit mond. Maga találta ki."
+  },
+  {
+    "proverb": "Az arany a sárban is arany.",
+    "meaning": "Az igazi érték a hitvány környezetben is érték marad."
+  },
+  {
+    "proverb": "Az ebek harmincadjára került/jutott.",
+    "meaning": "Gondatlanul bánnak valamivel, s ezért pusztulás vár rá."
+  },
+  {
+    "proverb": "Az ellenségemnek se kívánom.",
+    "meaning": "Arra mondják ha valami nagyon kellemetlen vagy fájdalmas."
+  },
+  {
+    "proverb": "Az ember nem lehet elég óvatos.",
+    "meaning": "Olyan helyzetekben mondják, ahol különösen nagy gondosságra és körültekintésre van szükség."
+  },
+  {
+    "proverb": "Az idő pénz.",
+    "meaning": "Ne pazaroljuk az időt! Hasznos felhasználásával pénzt is kereshetünk."
+  },
+  {
+    "proverb": "Az ígéret szép szó, ha megtartják úgy jó.",
+    "meaning": "Az ígéret csak úgy ér valamit ha teljesítik is."
+  },
+  {
+    "proverb": "Az nevet igazán/legjobban, aki utoljára nevet.",
+    "meaning": "Az örülhet, aki a küzdelem legvégső szakaszán győz."
+  },
+  {
+    "proverb": "Az okosabb enged.",
+    "meaning": "Néha a békesség kedvéért az önfejű, makacs emberre rá kell hagyni, hogy neki van igaza."
+  },
+  {
+    "proverb": "Az ördög nem alszik.",
+    "meaning": "Mindig óvatosnak kell lenni, akkor is, ha éppen nem fenyeget közvetlen veszély."
+  },
+  {
+    "proverb": "Az ördög vigyen el!",
+    "meaning": "Tűnj innen!"
+  },
+  {
+    "proverb": "Azt a lovat ütik, amelyik jobban húz.",
+    "meaning": "Arra bíznak több munkát, aki jól dolgozik."
+  },
+  {
+    "proverb": "Azt se mondta: befellegzett.",
+    "meaning": "Szó nélkül távozik."
+  },
+  {
+    "proverb": "Azt se tudja mi fán terem.",
+    "meaning": "Egyáltalán nem ismeri."
+  },
+  {
+    "proverb": "Azt se tudja, eszik-e vagy isszák.",
+    "meaning": "Fogalma sincs róla."
+  },
+  {
+    "proverb": "Babot ettél?",
+    "meaning": "Eszednél vagy?"
+  },
+  {
+    "proverb": "Babot is főznek valahol, nem csak lencsét.",
+    "meaning": "Lesz még nekem jobb sorsom is."
+  },
+  {
+    "proverb": "Bagoly mondja verébnek, hogy nagyfejű.",
+    "meaning": "Olyan hibát, rossz tulajdonságot ró fel valaki másnak, amely önmagára még inkább jellemző."
+  },
+  {
+    "proverb": "Bakot lő.",
+    "meaning": "Nagy hibát követ el."
+  },
+  {
+    "proverb": "Bal lábbal kelt fel.",
+    "meaning": "Rossz napja van, ingerült."
+  },
+  {
+    "proverb": "Bámul, mint borjú az új kapura.",
+    "meaning": "Ostobán, bambán, értetlenül néz."
+  },
+  {
+    "proverb": "Bátraké a szerencse.",
+    "meaning": "A szerencse is a bátrak mellé szegődik."
+  },
+  {
+    "proverb": "Be van rúgva, mint az ágyú.",
+    "meaning": "Erősen ittas, részeg."
+  },
+  {
+    "proverb": "Bedobta a törölközőt.",
+    "meaning": "Feladta a harcot."
+  },
+  {
+    "proverb": "Bedobták a mélyvízbe.",
+    "meaning": "Komoly feladatot bíznak rá."
+  },
+  {
+    "proverb": "Bekötik a fejét.",
+    "meaning": "Feleségül veszik."
+  },
+  {
+    "proverb": "Beletört a bicskája.",
+    "meaning": "Nem sikerült neki valami."
+  },
+  {
+    "proverb": "Benne van a csávában.",
+    "meaning": "Bajban van, kínos helyzetbe került."
+  },
+  {
+    "proverb": "Bogara van.",
+    "meaning": "Különös hóborttal, szokással rendelkezik."
+  },
+  {
+    "proverb": "Bolond lyukból bolond szél fúj.",
+    "meaning": "Bolond ember bolondságokat beszél."
+  },
+  {
+    "proverb": "Borban az igazság.",
+    "meaning": "Az alkohol megoldja a nyelvet, borivás közben őszintébben kimond az ember dolgokat."
+  },
+  {
+    "proverb": "Borotvaélen táncol.",
+    "meaning": "Olyan helyzetben van, ami bármely pillanatban veszélyessé válhat."
+  },
+  {
+    "proverb": "Borsot tör valakinek az orra alá.",
+    "meaning": "Bosszant valakit."
+  },
+  {
+    "proverb": "Bottal üthetik a nyomát.",
+    "meaning": "Hiába keresik, nem találják."
+  },
+  {
+    "proverb": "Bujkál bennem a kisördög.",
+    "meaning": "Gyanakvó, netán rosszindulatú gondolatom támad."
+  },
+  {
+    "proverb": "Burokban született.",
+    "meaning": "Nagyon szerencsés, minden sikerül neki."
+  },
+  {
+    "proverb": "Cigányútra megy.",
+    "meaning": "Az étel/ital a nyelőcső helyett a légzőcsőbe kerül és köhögési rohamot vált ki."
+  },
+  {
+    "proverb": "Csak a fejét üsd, hogy meg ne sántuljon!",
+    "meaning": "Üsd, ne sajnáld!"
+  },
+  {
+    "proverb": "Csak az nem követ el hibát, aki nem dolgozik.",
+    "meaning": "Munka közben előfordulhat hiba."
+  },
+  {
+    "proverb": "Csak az imádság tartja benne a lelket.",
+    "meaning": "Nagyon legyengült, rossz állapotban van."
+  },
+  {
+    "proverb": "Csak hálni jár bele a lélek.",
+    "meaning": "Nagyon beteg, alig van remény a felépülésére."
+  },
+  {
+    "proverb": "Csáky szalmájának tekinti.",
+    "meaning": "Rendetlenül kezeli, herdálja a közösség vagyonát."
+  },
+  {
+    "proverb": "Csalánba nem üt a ménkű/mennykő.",
+    "meaning": "Hitvány emberrel ritkán szokott nagy szerencsétlenség történni."
+  },
+  {
+    "proverb": "Csapja a szelet valakinek.",
+    "meaning": "Udvarol valakinek."
+  },
+  {
+    "proverb": "Csöbörből vödörbe.",
+    "meaning": "Egyik bajból a másikba kerül."
+  },
+  {
+    "proverb": "Csütörtököt mondott.",
+    "meaning": "Terv, szándék nem valósul meg, nem sikerül."
+  },
+  {
+    "proverb": "Darazsfészekbe nyúl.",
+    "meaning": "Olyan kérdést bolygat meg, aminek felkavarása nagy felzúdulást okoz."
+  },
+  {
+    "proverb": "Disznaja van.",
+    "meaning": "Ritka nagy szerencséje van."
+  },
+  {
+    "proverb": "Dobbal nem lehet verebet fogni.",
+    "meaning": "Ha a terveinket előre kifecsegjük, könnyen meghiúsulhatnak."
+  },
+  {
+    "proverb": "Dögrováson van.",
+    "meaning": "Nagyon beteg."
+  },
+  {
+    "proverb": "Dróton rángat valakit.",
+    "meaning": "Állandóan parancsolgat valakinek."
+  },
+  {
+    "proverb": "Dugába dől.",
+    "meaning": "Terv, szándék meghiúsul, kudarccal végződik."
+  },
+  {
+    "proverb": "Dunát lehetne rekeszteni vele/velük.",
+    "meaning": "Rengeteg van belőlük."
+  },
+  {
+    "proverb": "Dűlőre jut.",
+    "meaning": "Valamilyen kérdés, ügy elintéződik."
+  },
+  {
+    "proverb": "Eb ura fakó!",
+    "meaning": "Azt tesszük amit akarunk, nem parancsol nekünk senki!"
+  },
+  {
+    "proverb": "Ebcsont beforr.",
+    "meaning": "Tréfás vigasztalás kisgyereknek, ha sérülés éri."
+  },
+  {
+    "proverb": "Ebül szerzett jószág ebül vész el.",
+    "meaning": "Tisztességtelenül szerzett vagyon legtöbbször kárba vész."
+  },
+  {
+    "proverb": "Ég a keze alatt a munka.",
+    "meaning": "Gyorsan dolgozik."
+  },
+  {
+    "proverb": "Ég és föld a különbség (köztük).",
+    "meaning": "Az egyik nagyon jó, a másik nagyon rossz."
+  },
+  {
+    "proverb": "Egy bolond százat csinál.",
+    "meaning": "A feltűnő magatartás, divat, bolondos ötlet gyakran sok utánzóra, követőre talál."
+  },
+  {
+    "proverb": "Egy fecske nem csinál nyarat.",
+    "meaning": "Egyetlen tett nem tud gyökeres változást előidézni."
+  },
+  {
+    "proverb": "Egy fenékkel két nyerget nem lehet megülni.",
+    "meaning": "Két olyan feladatot nem lehet egyszerre végezni, amelyek mindegyike egész embert kívánna."
+  },
+  {
+    "proverb": "Egy füst alatt.",
+    "meaning": "Együttal."
+  },
+  {
+    "proverb": "Egy hajóban eveznek.",
+    "meaning": "Egy céljuk van."
+  },
+  {
+    "proverb": "Egy kaptafára húz mindent.",
+    "meaning": "Mindent ugyanúgy csinál."
+  },
+  {
+    "proverb": "Egy követ fújnak.",
+    "meaning": "Ugyanabban mesterkednek."
+  },
+  {
+    "proverb": "Egy szalmaszálat sem tesz keresztbe.",
+    "meaning": "Semmit sem csinál. Nem dolgozik."
+  },
+  {
+    "proverb": "Egyet mondok, kettő lesz belőle.",
+    "meaning": "Van egy jó gondolatom, szerencsés ötletem."
+  },
+  {
+    "proverb": "Egyik fülén be, a másikon ki.",
+    "meaning": "Éppen csak meghallgat valamit, de nem fogadja meg."
+  },
+  {
+    "proverb": "Egyik kutya, másik eb.",
+    "meaning": "Egyformán rossz mind a kettő."
+  },
+  {
+    "proverb": "Egyik szemem sír, a másik meg nevet.",
+    "meaning": "Egyszerre örül meg szomorkodik is."
+  },
+  {
+    "proverb": "Egyik tizenkilenc, a másik egy híján húsz.",
+    "meaning": "Egyikük sem jobb a másikuknál, egyformán rosszak."
+  },
+  {
+    "proverb": "Egyszer volt Budán kutyavásár.",
+    "meaning": "Csak egyszer van igazán nagy szerencséje az embernek."
+  },
+  {
+    "proverb": "Egyszer hopp, másszor kopp.",
+    "meaning": "Egyszer jól megy a dolga, máskor meg szükséget szenved."
+  },
+  {
+    "proverb": "Éhes disznó makkal álmodik.",
+    "meaning": "Mindenki azzal álmodik, arról ábrándozik, amire vágyik."
+  },
+  {
+    "proverb": "Él a gyanúperrel.",
+    "meaning": "Gyanakszik, gyanít."
+  },
+  {
+    "proverb": "Él, mint hal a vízben.",
+    "meaning": "Remekül érzi magát, vígan, gondtalanul él."
+  },
+  {
+    "proverb": "Él, mint Marci Hevesen.",
+    "meaning": "Jó dolga van, könnyen, vidáman él."
+  },
+  {
+    "proverb": "Elásták a csatabárdot.",
+    "meaning": "Kibékülnek."
+  },
+  {
+    "proverb": "Elcsúszott egy banánhéjon.",
+    "meaning": "Jelentéktelen történések, okok miatt mégis nagy probléma lehet valamiből."
+  },
+  {
+    "proverb": "Elefánt a porcelánboltban.",
+    "meaning": "Tudatlansága, tapintatlansága miatt otrombán viselkedik."
+  },
+  {
+    "proverb": "Élére rakja a garast.",
+    "meaning": "Zsugori, fösvény ember."
+  },
+  {
+    "proverb": "Elhúzza előtte / az orra előtt a mézesmadzagot.",
+    "meaning": "Valami kevés jónak a juttatásával vagy kecsegtető ígéretekkel csábít, bolondít valakit."
+  },
+  {
+    "proverb": "Elhúzzák a nótáját.",
+    "meaning": "Megverik, elbánnak vele."
+  },
+  {
+    "proverb": "Elkapta a gépszíj.",
+    "meaning": "Elkábították a lehetőségek, vagy elbízta magát."
+  },
+  {
+    "proverb": "Elmehetsz Kukutyinba zabot hegyezni.",
+    "meaning": "Mehet ahová akar, senki sem törődik vele, senki sem sajnálja."
+  },
+  {
+    "proverb": "Előbb felébredt, mint az ágy.",
+    "meaning": "Nagyon korán felébredt."
+  },
+  {
+    "proverb": "Elszabadult a pokol.",
+    "meaning": "A gonosz erők szabadon garázdálkodtak."
+  },
+  {
+    "proverb": "Eltalálta szarva közt a tőgyét.",
+    "meaning": "Melléfogott a dolognak, nagyot tévedett."
+  },
+  {
+    "proverb": "Eltörött a mécses.",
+    "meaning": "Jelentéktelen ok miatt sírva fakad."
+  },
+  {
+    "proverb": "Eltűnt, mint szürke szamár a ködben.",
+    "meaning": "Nyoma veszett."
+  },
+  {
+    "proverb": "Elveti a sulykot.",
+    "meaning": "Helytelen túlzásra ragadtatja magát, nagyot mond, füllent, hazudik."
+  },
+  {
+    "proverb": "Ember embernek farkasa.",
+    "meaning": "Az emberek ott ártanak egymásnak ahol csak tudnak."
+  },
+  {
+    "proverb": "Ember tervez, Isten végez.",
+    "meaning": "Tervezgetéseink nem mindig válnak valóra."
+  },
+  {
+    "proverb": "Érti a csíziót.",
+    "meaning": "Talpraesett, megvan a magához való esze."
+  },
+  {
+    "proverb": "Érzi, mint macska az esőt.",
+    "meaning": "Megérez, megsejt valamit."
+  },
+  {
+    "proverb": "Eső után köpönyeg.",
+    "meaning": "Elkésett a segítség, amire a baj bekövetkezése előtt lett volna szükség."
+  },
+  {
+    "proverb": "Eszi, nem eszi, nem kap mást.",
+    "meaning": "Akár tetszik neki, akár nem, meg kell vele elégednie."
+  },
+  {
+    "proverb": "Evés közben jön meg az étvágy.",
+    "meaning": "Akkor kap igazán kedvet az ember valamihez, amikor már hozzákezdett."
+  },
+  {
+    "proverb": "Ez csak púp a hátunkon.",
+    "meaning": "Már csak ez hiányzott, erre semmi szükség nem volt!"
+  },
+  {
+    "proverb": "Ez egy állatorvosi ló.",
+    "meaning": "Minden hibát ki lehet mutatni rajta."
+  },
+  {
+    "proverb": "Ez már lerágott csont.",
+    "meaning": "A kérdés vagy az ügy már többször is szóba került, unalmas."
+  },
+  {
+    "proverb": "Ez nem az én asztalom.",
+    "meaning": "Ez nem az én feladatom, felelősségem."
+  },
+  {
+    "proverb": "Ez van, ezt kell szeretni.",
+    "meaning": "Hiába nyavalyog valaki valami miatt, ha megváltozhatatlan a helyzet, akkor el kell fogadni."
+  },
+  {
+    "proverb": "Fabatkát sem ér.",
+    "meaning": "Teljesen értéktelen."
+  },
+  {
+    "proverb": "Fából vaskarika.",
+    "meaning": "Önmagával való ellentmondás, képtelen állítás."
+  },
+  {
+    "proverb": "Faképnél hagy.",
+    "meaning": "Szó nélkül, hűtlenül elhagyják."
+  },
+  {
+    "proverb": "Falra hányt borsó.",
+    "meaning": "Hiába beszél valakinek, nincs foganatja a szavának."
+  },
+  {
+    "proverb": "Farkasszemet néz.",
+    "meaning": "Pislogás nélkül a szemébe néz valakinek."
+  },
+  {
+    "proverb": "Fején találja a szöget.",
+    "meaning": "Rátalál a helyes megoldásra, a lényegre tapint."
+  },
+  {
+    "proverb": "Fejétől bűzlik a hal.",
+    "meaning": "Ha egy közösség tagjai romlottak, annak gyakran a vezetők az okai."
+  },
+  {
+    "proverb": "Fel is út, le is út.",
+    "meaning": "Mehetsz amerre akarsz, menj, ne is lássalak!"
+  },
+  {
+    "proverb": "Fél lábbal a sírban van.",
+    "meaning": "Annyira beteg vagy öreg, hogy már nem élhet sokáig."
+  },
+  {
+    "proverb": "Felírjuk a kéménybe korommal.",
+    "meaning": "Ilyesmi se szokott minden nap előfordulni."
+  },
+  {
+    "proverb": "Felkavarta az állóvizet.",
+    "meaning": "Tettével figyelmet vonz egy ügyre."
+  },
+  {
+    "proverb": "Felkelne, ha az ágy is felkelne vele.",
+    "meaning": "Nagyon szeret aludni, heverészni."
+  },
+  {
+    "proverb": "Felkopik az álla.",
+    "meaning": "Hoppon marad, nem kap enni."
+  },
+  {
+    "proverb": "Felöntött a garatra.",
+    "meaning": "Részeg lett, berúgott."
+  },
+  {
+    "proverb": "Felszedi a sátorfáját.",
+    "meaning": "Felszedelőzködik és odébbáll."
+  },
+  {
+    "proverb": "Feltalálta/Felfedezte a spanyolviaszt.",
+    "meaning": "Valamiről, ami közismert vagy köztudomású, azt hiszi, hogy az ő egyéni ötlete, saját gondolata."
+  },
+  {
+    "proverb": "Felteszi az i-re a pontot.",
+    "meaning": "Befejezi az addigi tevékenységet, készen van."
+  },
+  {
+    "proverb": "Felvitte az Isten a dolgát.",
+    "meaning": "Arra mondják akit előléptettek, kitüntették, de a mondás arra céloz, hogy ezt inkább szerencsével, Isten segítségével, nem a képességeivel érte el."
+  },
+  {
+    "proverb": "Feni a fogát valamire.",
+    "meaning": "Vágyódik valamire, szeretné megszerezni."
+  },
+  {
+    "proverb": "Fittyet hány neki.",
+    "meaning": "Nem törődik vele."
+  },
+  {
+    "proverb": "Fizet, mint a köles.",
+    "meaning": "Könnyelműen, bőkezűen fizet."
+  },
+  {
+    "proverb": "Fogához veri a garast.",
+    "meaning": "Nagyon takarékos, fösvény."
+  },
+  {
+    "proverb": "Fordul, mint az árnyék.",
+    "meaning": "Folyton változtatja a nézeteit, a magatartását."
+  },
+  {
+    "proverb": "Forr az epéje.",
+    "meaning": "Valakiben felgyülemlik a visszafojtott harag, düh."
+  },
+  {
+    "proverb": "Fut, mint az agár.",
+    "meaning": "Gyorsan fut."
+  },
+  {
+    "proverb": "Fűbe harap.",
+    "meaning": "Harcban, csatában meghal."
+  },
+  {
+    "proverb": "Fügét mutat.",
+    "meaning": "Durván megtagad valamilyen kérést. Semmibe vesz valamit/valakit."
+  },
+  {
+    "proverb": "Füle botját se mozdítja.",
+    "meaning": "Nem figyel oda, rá se hederít."
+  },
+  {
+    "proverb": "Fűnek-fának adós.",
+    "meaning": "Nagyon sok embernek tartozik."
+  },
+  {
+    "proverb": "Füstbe ment.",
+    "meaning": "Nem válik valóra, nem jön össze. Hiába a ráfordított idő, pénz, fáradtság semmi látszata nincs, elszálltak mint a füst."
+  },
+  {
+    "proverb": "Gazda szeme hizlalja a jószágot.",
+    "meaning": "Akkor megy rendben a munka egy gazdaságban, ha a tulajdonos mindenen rajta tartja a szemét."
+  },
+  {
+    "proverb": "Gyakorlat teszi a mestert.",
+    "meaning": "Minél többet gyakorol valaki, annál jobb lesz abban, amit csinál."
+  },
+  {
+    "proverb": "Gyáva népnek nincs hazája.",
+    "meaning": "Arra mondják, aki nem tudja megvédeni saját érdekeit, nem meri vállalni a kockázatot, nem fogja sokra vinni az életben."
+  },
+  {
+    "proverb": "Gyáva, mint a nyúl.",
+    "meaning": "Ez arra jellemző, aki fél általában minden ijesztő vagy rémisztő dologtól."
+  },
+  {
+    "proverb": "Ha a hegy nem megy Mohamedhez, Mohamed megy a hegyhez.",
+    "meaning": "Ha nem keres fel minket az, akivel találkozni szeretnénk, akkor nekünk kell hozzá elmenni a tárgyalás, a siker kedvéért."
+  },
+  {
+    "proverb": "Ha ablakkal beéred, ne nyiss kaput szívednek!",
+    "meaning": "Ne légy túl bizalmas más emberhez."
+  },
+  {
+    "proverb": "Ha adnak, vedd el, ha ütnek, szaladj el!",
+    "meaning": "Nem kell szerénykedni, ha kínálnak. Ha bántani akarnak, menj el!"
+  },
+  {
+    "proverb": "Ha hallgattál volna, bölcs maradtál volna.",
+    "meaning": "Ha valamiben nem vagyunk biztosak, inkább fogjuk be a szánkat. Ha valaki folyton szamárságokat beszél, előbb-utóbb elveszti az emberek szemében a hitelességét."
+  },
+  {
+    "proverb": "Ha kidobják az ajtón, bemegy az ablakon.",
+    "meaning": "Nem érti meg, hogy már nem kívánatos a társasága. Nem lehet elküldeni sem."
+  },
+  {
+    "proverb": "Ha már lúd, legyen kövér!",
+    "meaning": "Ne álljunk meg félúton, ha már belekezdtünk valamibe. Ha már benne vagyunk valamiben, csináljuk teljes szívvel, erővel."
+  },
+  {
+    "proverb": "Ha megdobnak kővel, dobd vissza kenyérrel.",
+    "meaning": "A jó természetű ember még a sértést, kártevést is jó tettekkel viszonozza."
+  },
+  {
+    "proverb": "Ha minden kötél szakad.",
+    "meaning": "A legrosszabb esetben."
+  },
+  {
+    "proverb": "Ha nem csordul, cseppen.",
+    "meaning": "Ha nagy haszon nincs is a dolgon, azért lehet rajta valamit keresni."
+  },
+  {
+    "proverb": "Ha nincs otthon a macska, táncolnak/cincognak az egerek.",
+    "meaning": "Akkor mondják, ha pl. a főnök nem látja a beosztottakat, illetve a szülő a gyerekeket, mert nincs éppen otthon, akkor senki nem viselkedik úgy, ahogy azt tőle elvárnák."
+  },
+  {
+    "proverb": "Ha rövid a kardod, toldd meg egy lépéssel.",
+    "meaning": "Nehéz időkben szükségmegoldást kell alkalmazni! Leleménnyel, ügyességgel segíthetünk magunkon."
+  },
+  {
+    "proverb": "Ha jöttök, lesztek, ha hoztok, esztek.",
+    "meaning": "Tréfás meghívás célzással arra, hogy nem nagy eszem-iszom lesz, illetve felhívás arra, hogy dobják össze a vendégek, amit enni szeretnének."
+  },
+  {
+    "proverb": "Ha ló nincs, a szamár is jó.",
+    "meaning": "Az ember kénytelen megelégedni azzal, amije van, akkor is, ha az nem olyan jó, mint amit eleve szeretett volna."
+  },
+  {
+    "proverb": "Hadd hulljon a férgese.",
+    "meaning": "Akkor mondják, ha valamiből a rosszabbra nem tartanak igényt. A gyengébb, rosszabb bukjon el. Csatákban is pl."
+  },
+  {
+    "proverb": "Hallgatni arany.",
+    "meaning": "Aki tudja, mikor kell csöndben maradni, annak kevesebb gondja lesz az életben, többre viszi."
+  },
+  {
+    "proverb": "Hamar munka ritkán jó.",
+    "meaning": "Az elkapkodott munka ritkán jó, nyerünk ugyan időt vele, de veszítünk a javítgatással, és a jó hírnevünk is veszélybe kerülhet."
+  },
+  {
+    "proverb": "Harapófogóval sem lehet belőle kihúzni.",
+    "meaning": "Szótlan, zárkózott, vagy titoktartó ember."
+  },
+  {
+    "proverb": "Három a magyar igazság.",
+    "meaning": "Azt tartják, hogy úgy teljesedik ki valami, úgy érzünk valamit kerek, egésznek, ha azok száma három. Néphit."
+  },
+  {
+    "proverb": "Hátra van még a feketeleves.",
+    "meaning": "A legrosszabb még csak ezután jön."
+  },
+  {
+    "proverb": "Hátrább az agarakkal.",
+    "meaning": "Állj le, vegyél vissza, legyél szerényebb, húzd meg magad!"
+  },
+  {
+    "proverb": "Hátrakötöm a sarkad!",
+    "meaning": "Gyermekeknek szóló tréfás fenyegetés, ijesztgetés szigorú büntetésről."
+  },
+  {
+    "proverb": "Helyes a bőgés.",
+    "meaning": "Tréfás helyeslés, egyetértés."
+  },
+  {
+    "proverb": "Heten vannak, mint a gonoszok.",
+    "meaning": "Pontosan heten vannak."
+  },
+  {
+    "proverb": "Hiányzik egy kereke.",
+    "meaning": "Nem épelméjű, féleszű ember."
+  },
+  {
+    "proverb": "Hogy kerül a csizma az asztalra?",
+    "meaning": "Mi köze a témának ehhez?"
+  },
+  {
+    "proverb": "Hol van már a tavalyi hó?",
+    "meaning": "Az már nagyon régen történt."
+  },
+  {
+    "proverb": "Holló a hollónak nem vájja ki a szemét.",
+    "meaning": "A barátok támogatják egymást, nem tesznek keresztbe egymásnak."
+  },
+  {
+    "proverb": "Holtig remél az ember.",
+    "meaning": "A remény él a legtovább bennünk."
+  },
+  {
+    "proverb": "Homályosak az ablakok.",
+    "meaning": "Gyengül a szeme, a látása valakinek."
+  },
+  {
+    "proverb": "Hosszú lére ereszt.",
+    "meaning": "A kelleténél hosszabban ad elő (szóban) valamit."
+  },
+  {
+    "proverb": "Hosszú haj, rövid ész.",
+    "meaning": "Azokra a lányokra mondják, akik butuskák, azt az elavult nézetet tükrözi, miszerint a nők nem képesek logikusan gondolkodni."
+  },
+  {
+    "proverb": "Hűbelebalázs módjára.",
+    "meaning": "Meggondolatlanul, elhamarkodva csinál valamit."
+  },
+  {
+    "proverb": "Hűlt helyét találja.",
+    "meaning": "Valaki, valami nyomtalanul eltűnik."
+  },
+  {
+    "proverb": "Idegen tollakkal ékeskedik.",
+    "meaning": "Más által kitalált/készítette dolgot, mint a sajátját mutatja be."
+  },
+  {
+    "proverb": "Ígéretekkel tele a padlás.",
+    "meaning": "Most már tegyen is valamit, ne csak ígérgessen."
+  },
+  {
+    "proverb": "Illa berek, nádak, erek!",
+    "meaning": "Elfut, elszökik."
+  },
+  {
+    "proverb": "Inába szállt a bátorsága.",
+    "meaning": "Félelmében, ijedtében remegni kezd, megfutamodik."
+  },
+  {
+    "proverb": "Írmagja sem marad.",
+    "meaning": "Valami teljesen kipusztul, nem marad belőle semmi."
+  },
+  {
+    "proverb": "Ismerik, mint a rossz pénzt.",
+    "meaning": "Valakit nagyon jól ismernek, tudják mi várható tőle."
+  },
+  {
+    "proverb": "Isten malmai lassan őrölnek, de biztosan.",
+    "meaning": "Ha késik is, de többnyire sosem marad el a megérdemelt büntetés, vagy jutalom."
+  },
+  {
+    "proverb": "Isten nem ver bottal.",
+    "meaning": "Azért kapta mert megérdemelte valaki a büntetést."
+  },
+  {
+    "proverb": "Iszik, mint a kefekötő.",
+    "meaning": "Részeges."
+  },
+  {
+    "proverb": "Itt a kezem, nem disznóláb.",
+    "meaning": "Áll az alku, megegyeztünk."
+  },
+  {
+    "proverb": "Itt van a kutya elásva/eltemetve.",
+    "meaning": "Ez a lényeg."
+  },
+  {
+    "proverb": "Ízlések és pofonok különbözők.",
+    "meaning": "Mindenkinek más és más tetszik, nem egyforma az ízlés. Nem is érdemes emiatt vitába bonyolódni."
+  },
+  {
+    "proverb": "Járt utat a járatlanért el ne hagyj!",
+    "meaning": "Múló hangulatokért, kíváncsiságból, kalandvágyból a biztonságot sosem szabad feladni."
+  },
+  {
+    "proverb": "Jó kezdet, fél siker.",
+    "meaning": "Ha valamit lendületesen, jó kedvvel végeznek, nem marad el a várt siker."
+  },
+  {
+    "proverb": "Jó pap holtig tanul.",
+    "meaning": "Sohase mondjuk, hogy mindent tudunk. Mindig van mód és szükséges is új ismereteket szerezni."
+  },
+  {
+    "proverb": "Jó bornak nem kell cégér.",
+    "meaning": "A jó minőségű terméknek nincs szüksége reklámra, fogy az, kapós amúgy is."
+  },
+  {
+    "proverb": "Jó munkához idő kell.",
+    "meaning": "Sose csapjuk össze, amit csinálunk, mindenre annyi időt kell fordítani, amennyit a jó minőség megkíván."
+  },
+  {
+    "proverb": "Jobb a sűrű fillér, mint a ritka forint.",
+    "meaning": "A kicsiből több jobb, mint a nagyobból kevés."
+  },
+  {
+    "proverb": "Jobb adni, mint kapni.",
+    "meaning": "Jobb, ha az ember jómódú, ezért segíthet másokon."
+  },
+  {
+    "proverb": "Jobb egy adjonisten száz fogadjistennél.",
+    "meaning": "Mindegy, hogy mások milyenek, mi legyünk illemtudóak."
+  },
+  {
+    "proverb": "Jobb félni, mint megijedni.",
+    "meaning": "Jobb előre tervezni, mint a váratlan helyzetekben megijedni."
+  },
+  {
+    "proverb": "Jobb ma egy veréb, mint holnap egy túzok.",
+    "meaning": "Használd az elérhető lehetőségeidet ahelyett, hogy arra számítasz, hogy holnap esetleg még jobb lesz."
+  },
+  {
+    "proverb": "Jobb későn, mint soha.",
+    "meaning": "Ha valamit elmulasztottál, még mindig jobb megkésve megtenni azt."
+  },
+  {
+    "proverb": "Jóból is megárt a sok.",
+    "meaning": "Semmit nem szabad túlzásba vinni."
+  },
+  {
+    "proverb": "Jól hajtanak az agarak.",
+    "meaning": "Remény van valamire."
+  },
+  {
+    "proverb": "Jótett helyébe jót várj.",
+    "meaning": "A jó cselekedet elnyeri jutalmát."
+  },
+  {
+    "proverb": "Jöjjön, aminek jönni kell.",
+    "meaning": "Lássuk, mi lesz belőle!"
+  },
+  {
+    "proverb": "Jön még kutyára dér.",
+    "meaning": "Lesz még rosszabb is."
+  },
+  {
+    "proverb": "Kabátlopási ügybe keveredett.",
+    "meaning": "Hírbe hozták már megint."
+  },
+  {
+    "proverb": "Kapóra jön.",
+    "meaning": "Éppen jókor történik valami."
+  },
+  {
+    "proverb": "Kecskére bízza a káposztát.",
+    "meaning": "Olyanra bíz valamit, aki maga is meg szeretné szerezni azt."
+  },
+  {
+    "proverb": "Kemény fából faragták.",
+    "meaning": "Nem ijed meg egy feladattól."
+  },
+  {
+    "proverb": "Kenyértörésre került a dolog.",
+    "meaning": "Egy válságos ügyben elérkezik a végleges döntést meghozó fordulat."
+  },
+  {
+    "proverb": "Kereket old.",
+    "meaning": "Megszökik, elillan."
+  },
+  {
+    "proverb": "Keresztet vet valamire.",
+    "meaning": "Lemond valamiről."
+  },
+  {
+    "proverb": "Kerülgeti, mint macska a forró kását.",
+    "meaning": "Nem mer valamit egyenesen, határozottan megtenni, halogatja azt."
+  },
+  {
+    "proverb": "Késő bánat ebgondolat.",
+    "meaning": "Utólag már hiába talált ki jó megoldást."
+  },
+  {
+    "proverb": "Későn jövőnek csont az ebédje.",
+    "meaning": "Aki elmulasztott valamit, az lemarad róla."
+  },
+  {
+    "proverb": "Két dudás egy csárdában nem fér meg.",
+    "meaning": "Csak egy főnök lehet."
+  },
+  {
+    "proverb": "Két legyet üt egy csapásra.",
+    "meaning": "Egy ügyes cselekedettel két dolgot is megold."
+  },
+  {
+    "proverb": "Két malomban őrölnek.",
+    "meaning": "Különböző dolgokról beszélnek, közben azt hiszik, hogy egyről vitatkoznak."
+  },
+  {
+    "proverb": "Két malomkő közt őrlődik.",
+    "meaning": "Erejét, ellenálló-képességét teljesen kimeríti két egymással ellentétes tényező, amik között nem tud dönteni."
+  },
+  {
+    "proverb": "Két szék közt a pad alá esik.",
+    "meaning": "Két választási lehetőség közül nem tud dönteni, végül mindkettőről lemarad."
+  },
+  {
+    "proverb": "Két tűz között van.",
+    "meaning": "Két irányból is támadják, nem tudja merre meneküljön."
+  },
+  {
+    "proverb": "Kétszer ad, ki gyorsan ad.",
+    "meaning": "A gyorsan kapott segítség a legértékesebb."
+  },
+  {
+    "proverb": "Kettőn áll a vásár.",
+    "meaning": "Egy megegyezés mindig két ember akaratán múlik."
+  },
+  {
+    "proverb": "Kéz kezet mos.",
+    "meaning": "Aki ugyanolyan vétkes egy ügyben, az meg fogja védeni a másikat."
+  },
+  {
+    "proverb": "Ki korán kel, aranyat lel!",
+    "meaning": "Az az ember, aki szorgalmasan dolgozik, illetve késedelem nélkül cselekszik, sokra viszi."
+  },
+  {
+    "proverb": "Ki mint vet, úgy arat.",
+    "meaning": "Minden tettednek lesznek következményei."
+  },
+  {
+    "proverb": "Ki mint veti ágyát, úgy alussza álmát.",
+    "meaning": "Legyen a lelked tiszta, és ha belenézel a tükörbe, szembe tudjál nézni magaddal."
+  },
+  {
+    "proverb": "Ki sokat markol, keveset fog.",
+    "meaning": "Aki nagyon sok mindenbe belefog, csak nagyon kevés dolgot fog tudni értékesen végigcsinálni."
+  },
+  {
+    "proverb": "Ki tudja, mit hoz a holnap.",
+    "meaning": "Soha ne add fel a reményt, nem tudhatod mit hoz a holnap."
+  },
+  {
+    "proverb": "Kiadja ami a begyében van.",
+    "meaning": "Elmondja, hogy mi bosszantja."
+  },
+  {
+    "proverb": "Kibújik a szög a zsákból.",
+    "meaning": "Kiderül a valódi igazság, köztudomásra jut."
+  },
+  {
+    "proverb": "Kicsi a bors, de erős.",
+    "meaning": "A kicsinek is van, lehet esélye a nagyobb ellen."
+  },
+  {
+    "proverb": "Kiengedte a palackból a szellemet.",
+    "meaning": "Egy olyan váratlan eseménysorozatot indított el, amit nem biztos, hogy kellett volna."
+  },
+  {
+    "proverb": "Kifelé áll a szekere rúdja.",
+    "meaning": "Valahonnan kényszerből távozóban van, el akarják bocsátani."
+  },
+  {
+    "proverb": "Kifogja a szelet a vitorlájából.",
+    "meaning": "Valaki másnak az érdemeit magáévá téve megszerzi az előnyt."
+  },
+  {
+    "proverb": "Kígyót melenget a keblén.",
+    "meaning": "Olyan emberrel barátkozik, aki viszonzásul gonoszsággal fizet."
+  },
+  {
+    "proverb": "Kígyót, békát kiált rá.",
+    "meaning": "Valakire rosszat fog rá, vádaskodik, rágalmaz."
+  },
+  {
+    "proverb": "Kihúzzák alóla a gyékényt.",
+    "meaning": "Tönkretesz valakit."
+  },
+  {
+    "proverb": "Kilóg a lóláb.",
+    "meaning": "Látszik valakinek az igazi (nem egészen tisztességes) szándéka."
+  },
+  {
+    "proverb": "Kilóg a sorból.",
+    "meaning": "Valami nagyon nem illik a többi közé, és ez jól látszik."
+  },
+  {
+    "proverb": "Kimutatja a foga fehérjét.",
+    "meaning": "Amikor önkéntelenül, véletlenül, vagy végül elárulja szándékát, természetét."
+  },
+  {
+    "proverb": "Kinek a pap, kinek a papné.",
+    "meaning": "Kinek milyen az ízlése, kinek hogy tetszik valami."
+  },
+  {
+    "proverb": "Kinyílik a bicska a zsebemben.",
+    "meaning": "Olyan felháborító dolog történik, hogy rettenetesen dühbe jövök."
+  },
+  {
+    "proverb": "Kirázza az ujjából.",
+    "meaning": "Előkészület, gondolkodás nélkül tud valamit."
+  },
+  {
+    "proverb": "Kisgyerek - kis gond, nagy gyerek - nagy gond.",
+    "meaning": "Kis gyerekkel sok apró gond van, nagy gyerekkel kevesebb, de nagyobb a probléma."
+  },
+  {
+    "proverb": "Kiszúrja valakinek a szemét valamivel.",
+    "meaning": "A fáradságért csekély összeggel akar valakit kielégíteni."
+  },
+  {
+    "proverb": "Kiteregeti a szennyest.",
+    "meaning": "Olyan csúnya dolgokat tár a nyilvánosság elé, amelyeknek titokban, szűk körben kellene maradniuk."
+  },
+  {
+    "proverb": "Kitették a szűrét.",
+    "meaning": "Elküldték, kitessékelték. (Régen lánykérésnél)"
+  },
+  {
+    "proverb": "Kiugrasztja a nyulat a bokorból.",
+    "meaning": "Ügyesen színvallásra késztet valakit, elárultatja rejtett szándékát."
+  },
+  {
+    "proverb": "Kivágja a rezet.",
+    "meaning": "Kitesz magáért, megmutatja mit tud."
+  },
+  {
+    "proverb": "Kiverte az ág a szemét.",
+    "meaning": "Megviselte az idő (személyt). Elnyűtt, elkopott (tárgy)."
+  },
+  {
+    "proverb": "Kolumbusz tojása.",
+    "meaning": "Látszólag nagyon nehéz, valójában azonban nagyon egyszerű (kérdés, feladat)."
+  },
+  {
+    "proverb": "Kopog a szeme az éhségtől.",
+    "meaning": "Nagyon kívánja az ételt, éhes."
+  },
+  {
+    "proverb": "Kordában tart.",
+    "meaning": "Szigorú fegyelem alatt tart."
+  },
+  {
+    "proverb": "Kosarat kap.",
+    "meaning": "Kérését visszautasítják. (Pl.: leánykérésnél)"
+  },
+  {
+    "proverb": "Kölcsön kenyér visszajár.",
+    "meaning": "Amit kölcsönkap az ember, azt vissza is kell adnia/az elszenvedett sérelmet meg szokták torolni."
+  },
+  {
+    "proverb": "Könnyű adni, ami nem kell.",
+    "meaning": "Az adománynak akkor van igazi értéke, ha nem a feleslegből adják."
+  },
+  {
+    "proverb": "Könnyű Katát táncba vinni (ha ő is akarja).",
+    "meaning": "Könnyű azt rávenni valamire, akinek magának is kedve van a dologhoz. / Tudom, hogy kedvére van a dolog, ha színleg vonakodik is."
+  },
+  {
+    "proverb": "Köpönyeget fordít.",
+    "meaning": "Jellemtelen ember módjára úgy változtatja az elveit, az álláspontját, ahogy éppen az érdekei megkívánják."
+  },
+  {
+    "proverb": "Körmére ég a munka/dolog.",
+    "meaning": "Későre hagyott munka nagyon sürgetővé, sietőssé válik."
+  },
+  {
+    "proverb": "Kötélnek áll.",
+    "meaning": "Hagyja magát valamire rábeszélni."
+  },
+  {
+    "proverb": "Köti az ebet a karóhoz.",
+    "meaning": "Valótlan dolgot erősítget, bizonygat."
+  },
+  {
+    "proverb": "Kötve hiszi.",
+    "meaning": "Nem hiszi el, vagy csak alig hisz el valamit."
+  },
+  {
+    "proverb": "Közös lónak túros a háta.",
+    "meaning": "Amit többen használnak, az rendszerint hamar tönkremegy, mert a lelkiismeretlen emberek kevésbé vigyáznak rá, mint arra, ami csak az övék."
+  },
+  {
+    "proverb": "Krisztus koporsóját sem őrizték ingyen.",
+    "meaning": "Nem lehet azt kívánni, hogy bármit ingyen adjanak vagy végezzenek el az emberek."
+  },
+  {
+    "proverb": "Krokodil könnyeket hullat.",
+    "meaning": "Színleli a bánatot, nem igazi fájdalomból sír."
+  },
+  {
+    "proverb": "Kutyából nem lesz szalonna.",
+    "meaning": "A rossz természet ellen nehéz küzdeni/úgysem tud valaki alapjában megváltozni."
+  },
+  {
+    "proverb": "Kutyaharapást szőrével.",
+    "meaning": "Ami a bajt, bánatot okozta, az mulasztja is el."
+  },
+  {
+    "proverb": "Kutya-macska barátság.",
+    "meaning": "Örökös civakodással, veszekedéssel eltöltött kényszerű együttlét, együttélés."
+  },
+  {
+    "proverb": "Lándzsát tör valaki mellett.",
+    "meaning": "Valaki védelmére kel."
+  },
+  {
+    "proverb": "Lassan a testtel!",
+    "meaning": "Csillapításul mondjuk annak, aki valamilyen butaságot akar tenni."
+  },
+  {
+    "proverb": "Lassan járj, tovább érsz.",
+    "meaning": "Megfontoltsággal, alapos és kitartó munkával többre megy az ember, mint kapkodással, elhamarkodott sietséggel."
+  },
+  {
+    "proverb": "Lassú víz partot mos.",
+    "meaning": "Szívós, kitartó munkával érhetjük el a célunkat."
+  },
+  {
+    "proverb": "Lássuk a medvét!",
+    "meaning": "Térjünk a lényegre!"
+  },
+  {
+    "proverb": "Láttam én már karón varjút.",
+    "meaning": "Vannak olyan dolgok, amiket lehetetlennek tartanak, mégis megtörténnek (Állítólag a varjú nem száll karóra)/ Sok mindent látott már."
+  },
+  {
+    "proverb": "Leesik az álla.",
+    "meaning": "Elcsodálkozik, elképed, eláll a szava."
+  },
+  {
+    "proverb": "Legény a gáton.",
+    "meaning": "Olyan ember, aki a nehéz, válságos helyzetben is kitesz magáért, aki nem riad vissza a nehézségektől."
+  },
+  {
+    "proverb": "Legjobb az egyenes út.",
+    "meaning": "Legjobb becsületesnek, őszintének lenni."
+  },
+  {
+    "proverb": "Legjobb ostor az abrak.",
+    "meaning": "Jó abrakkal könnyű a lovat munkára bírni, nem kell ütni."
+  },
+  {
+    "proverb": "Legjobb szakács az éhség.",
+    "meaning": "Ha nagyon éhes az ember, nem válogatós, a kevésbé finom ételeket is jóízűen megeszi."
+  },
+  {
+    "proverb": "Légvárakat épít.",
+    "meaning": "Soha meg nem valósítható terveket sző, hiú ábrándokat kerget."
+  },
+  {
+    "proverb": "Lehazudná a csillagokat az égről.",
+    "meaning": "Mindent letagad, hazudik."
+  },
+  {
+    "proverb": "Leissza magát a sárga földig.",
+    "meaning": "Olyan részeg lesz, hogy a lábán sem tud megállni."
+  },
+  {
+    "proverb": "Lenyeli a békát.",
+    "meaning": "Kényszerűségből megtesz valamit, ami nincs ínyére/kénytelen-kelletlen elszenved valami kellemetlenséget."
+  },
+  {
+    "proverb": "Lesz ami lesz.",
+    "meaning": "Mindegy, hogy mi történik, majd csak lesz valahogy."
+  },
+  {
+    "proverb": "Lóvá tesz valakit.",
+    "meaning": "Becsap, rászed valakit."
+  },
+  {
+    "proverb": "Ludas a dologban.",
+    "meaning": "Hibás, bűnös valamiben."
+  },
+  {
+    "proverb": "Lyukat beszél a hasába valakinek.",
+    "meaning": "Bosszantóan sokat beszél valakinek, rendszerint azért, hogy rávegye valamire."
+  },
+  {
+    "proverb": "Madarat tolláról, embert barátjáról.",
+    "meaning": "Mindenkire jellemző az, hogy kivel, vagy kikkel barátkozik."
+  },
+  {
+    "proverb": "Maga alatt vágja a fát.",
+    "meaning": "Saját érdekei ellen cselekszik, saját magának szerez bajt."
+  },
+  {
+    "proverb": "Magad uram, ha szolgád nincs.",
+    "meaning": "Ha nincs, aki elvégezze helyettünk a munkát, amelyet egyébként nem magunk szoktunk végezni, nem tehetünk mást, mint hogy magunk látunk hozzá a dologhoz."
+  },
+  {
+    "proverb": "Magyarázza a bizonyítványát.",
+    "meaning": "Próbál kifogásokat találni utólag, hogy miért is történhetett meg egy kellemetlen eset."
+  },
+  {
+    "proverb": "Majd ha fagy!",
+    "meaning": "Arra ugyan várhatsz! Sohanapján."
+  },
+  {
+    "proverb": "Május eső aranyat ér.",
+    "meaning": "A májusi eső hasznos, mert neveli a veteményt, javítja, fokozza a termést."
+  },
+  {
+    "proverb": "Más kárán tanul az okos.",
+    "meaning": "Akinek van esze, az okul a más példájából, és megelőzi a bajt."
+  },
+  {
+    "proverb": "Más szemében a szálkát is meglátja, a magáéban a gerendát sem.",
+    "meaning": "Másokban észreveszi a kis hibát is, de saját hibáiról nem vesz tudomást."
+  },
+  {
+    "proverb": "Mással kapartatja ki a gesztenyét a tűzből/parázsból.",
+    "meaning": "Ravaszul rávesz valakit, hogy végrehajtson egy olyan kínos vagy veszélyes feladatot, amelyből csak neki magának van haszna."
+  },
+  {
+    "proverb": "Még neki áll feljebb.",
+    "meaning": "Bűnös, vétkes létére hangoskodik, fölényeskedik."
+  },
+  {
+    "proverb": "Meg van kötve a keze.",
+    "meaning": "Nincs hatalma valamit megtenni."
+  },
+  {
+    "proverb": "Megáll benne az ütő.",
+    "meaning": "A meglepetéstől eláll a szava, elképed."
+  },
+  {
+    "proverb": "Megállja a sarat.",
+    "meaning": "A nehézségek ellenére is kitart, derekasan helytáll."
+  },
+  {
+    "proverb": "Megette a kenyere javát.",
+    "meaning": "Túl van élete delén. Sokat látott, tapasztalt."
+  },
+  {
+    "proverb": "Megfogta az Isten lábát.",
+    "meaning": "Megtalálta a boldogulás útját, módját/szerencsés."
+  },
+  {
+    "proverb": "Megfojtaná egy kanál vízben.",
+    "meaning": "Nagyon gyűlöli."
+  },
+  {
+    "proverb": "Megfordul/Forog a sírjában.",
+    "meaning": "Valami kiáltó ellentétben van az elhunyt szándékával, felfogásával; ha élne, tiltakozna ellene."
+  },
+  {
+    "proverb": "Meghalt Mátyás király, oda az igazság.",
+    "meaning": "Nincs hova fordulni elégtételért, igazságért."
+  },
+  {
+    "proverb": "Meghaltam és vidéken (külföldön) vagyok eltemetve!",
+    "meaning": "Ne zavarj, dolgom van."
+  },
+  {
+    "proverb": "Megissza a levét.",
+    "meaning": "Baja lesz belőle, megkeserül valamit."
+  },
+  {
+    "proverb": "Megmossa a fejét valakinek.",
+    "meaning": "Leszid valakit."
+  },
+  {
+    "proverb": "Megoldódik a nyelve.",
+    "meaning": "Aki eddig hallgatott, elkezd beszélni, beszédes lesz."
+  },
+  {
+    "proverb": "Megtalálta a zsák a foltját.",
+    "meaning": "Mindenki megtalálja a hozzá méltó élettársat vagy barátot, cimborát."
+  },
+  {
+    "proverb": "Megtanítlak kesztyűbe dudálni.",
+    "meaning": "Fenyegetés: rövidesen ellátják a baját, megleckéztetik."
+  },
+  {
+    "proverb": "Megüti a bokáját.",
+    "meaning": "Meggyűlik a baja a hatósággal."
+  },
+  {
+    "proverb": "Megüti a guta.",
+    "meaning": "Nagy bosszúság éri."
+  },
+  {
+    "proverb": "Megvan vetve az ágya a pokolban.",
+    "meaning": "Nagyon gonosz ember."
+  },
+  {
+    "proverb": "Megverte a sok adjonisten.",
+    "meaning": "Berúgott."
+  },
+  {
+    "proverb": "Megveti az ágyát valaminek.",
+    "meaning": "Előkészít, megalapoz valamit."
+  },
+  {
+    "proverb": "Megy, mint a karikacsapás.",
+    "meaning": "Gyorsan, fennakadás nélkül, rendben megy valami, ill. így tud, így csinál valaki valamit."
+  },
+  {
+    "proverb": "Mehet a sóhivatalba.",
+    "meaning": "Bárhová megy is, sehol sem segítenek rajta, sehol sem intézik el az ügyét."
+  },
+  {
+    "proverb": "Messziről jött ember azt mond, amit akar.",
+    "meaning": "Aki messze földről érkezett, annak az állításait, elbeszéléseit nehéz ellenőrizni, s ezért az ilyen embernek a szavát gyakran kétkedéssel is fogadjuk."
+  },
+  {
+    "proverb": "Minden hájjal megkent.",
+    "meaning": "Furfangos, ravasz. Negatív értelemben: rossz ember, fösvény, zsugori."
+  },
+  {
+    "proverb": "Minden kezdet nehéz.",
+    "meaning": "Minden új vállalkozás, új munka vagy kísérlet kezdeti nehézségekkel jár."
+  },
+  {
+    "proverb": "Minden lében kanál.",
+    "meaning": "Mindenbe beleszól, olyasmibe is beleártja magát, amihez semmi köze sincs."
+  },
+  {
+    "proverb": "Minden út Rómába vezet.",
+    "meaning": "Ugyanazt a célt többféle módon is elérhetjük."
+  },
+  {
+    "proverb": "Minden csoda három napig tart.",
+    "meaning": "Minden újdonság csak ideig-óráig tart, minden mulandó."
+  },
+  {
+    "proverb": "Minden jó, ha a vége jó.",
+    "meaning": "Ha valami jól sikerül, könnyen elfelejted a nehézségeket, amelyek menetközben voltak."
+  },
+  {
+    "proverb": "Minden kakas úr a maga szemétdombján.",
+    "meaning": "A magad birtokán, házadban, vagy saját hatáskörödben jogod van úgy tenni, ahogy neked tetszik."
+  },
+  {
+    "proverb": "Minden követ megmozgat.",
+    "meaning": "Amit csak tudsz és bírsz, megteszel célodért, azért, amit el szeretnél érni, amit meg szeretnél kapni."
+  },
+  {
+    "proverb": "Minden rosszban van valami jó.",
+    "meaning": "Valami jót még a legrosszabb dolgokban is találsz."
+  },
+  {
+    "proverb": "Minden szentnek maga felé hajlik a keze.",
+    "meaning": "Mindenki a saját érdekeit tartja szem előtt."
+  },
+  {
+    "proverb": "Mindenki a maga bőrét viszi a vásárra.",
+    "meaning": "Amit teszünk, azért magunknak kell vállalnunk a felelősséget."
+  },
+  {
+    "proverb": "Mindenki a maga háza előtt söpörjön.",
+    "meaning": "Minden ember törődjön a saját dolgával, ne ártsa bele magát mások ügyeibe."
+  },
+  {
+    "proverb": "Mindenki a maga szerencséjének kovácsa.",
+    "meaning": "Mindenki úgy boldogul, ahogy tud és amennyit tesz is érte."
+  },
+  {
+    "proverb": "Mindenki magából indul ki.",
+    "meaning": "Az ember a saját tulajdonságait feltételezi a másik emberről is, sőt hajlamos túlzásokba is esni, ha például alaptalanul gyanúsítunk meg egy másik embert."
+  },
+  {
+    "proverb": "Mindenkinek megvan a maga baja.",
+    "meaning": "Ha kívülről nem is látszik, attól még a másik ember is lehet bajban, lehet gondja, fájdalma."
+  },
+  {
+    "proverb": "Mindennek megvan a maga ideje.",
+    "meaning": "Vannak dolgok, amiket nem lehet siettetni, sürgetni, ki kell várni türelmesen."
+  },
+  {
+    "proverb": "Mindennek van határa.",
+    "meaning": "Nem lehet semmit sem túlzásba vinni."
+  },
+  {
+    "proverb": "Mindent lehet, csak akarni kell.",
+    "meaning": "Nincsen lehetetlen, csak olyan, aki tehetetlen."
+  },
+  {
+    "proverb": "Mindenütt jó, de legjobb otthon.",
+    "meaning": "Az otthont nem pótolja semmi."
+  },
+  {
+    "proverb": "Mint a pinty.",
+    "meaning": "Könnyen, könnyedén, játszva, gyorsan."
+  },
+  {
+    "proverb": "Mint derült égből a villámcsapás.",
+    "meaning": "Olyan váratlanul és gyorsan következett be, hogy nem volt idő felkészülten várni."
+  },
+  {
+    "proverb": "Mintha hájjal kenegetnék.",
+    "meaning": "Nagyon jól esik, ha kellemeset mondanak neki, ha dicsérik."
+  },
+  {
+    "proverb": "Mossa a kezét.",
+    "meaning": "Elhárítja magáról a felelősséget, ártatlannak akarja feltüntetni magát."
+  },
+  {
+    "proverb": "Munka után édes a pihenés.",
+    "meaning": "Az pihen igazán jól, aki rendesen dolgozott, hiszen dolgunk végeztével jól esik pihenni."
+  },
+  {
+    "proverb": "Nagy az Isten állatkertje!",
+    "meaning": "Sokféle ember él a Földön, így buták is."
+  },
+  {
+    "proverb": "Nagy behemót ember.",
+    "meaning": "Feltűnően nagy testű ember."
+  },
+  {
+    "proverb": "Nagy feneket kerít valaminek.",
+    "meaning": "Feleslegesen fontos dolgot csinál valamiből."
+  },
+  {
+    "proverb": "Nagy port ver fel.",
+    "meaning": "Nagy feltűnést kelt."
+  },
+  {
+    "proverb": "Nagy fába vágta a fejszéjét.",
+    "meaning": "Nehéz munkába fog valaki, ami esetleg meg is haladja az erejét."
+  },
+  {
+    "proverb": "Nagy kő esett le a szívéről.",
+    "meaning": "Megszabadult egy nagy gondtól, tehertől, megkönnyebbült, fellélegezhet túl van rajta."
+  },
+  {
+    "proverb": "Nagyobb a füstje, mint a lángja.",
+    "meaning": "Fontosabbnak tüntetik fel, mint amennyit ér."
+  },
+  {
+    "proverb": "Nagyobb az ágy a lepelnél.",
+    "meaning": "Több a fölösleges járulék, mint maga a lényeg."
+  },
+  {
+    "proverb": "Ne akkor abrakolj, amikor indulni kell!",
+    "meaning": "Ne az utolsó percben kezdj neki a munkának!"
+  },
+  {
+    "proverb": "Ne állj itt úgy, mint egy Á betű.",
+    "meaning": "Ne állj itt szétvetett lábbal, tétlenül."
+  },
+  {
+    "proverb": "Ne csak tudd a jót, hanem tedd is.",
+    "meaning": "Nem elég tudni, hogy mi a helyes, hanem tettekkel meg is kell valósítani."
+  },
+  {
+    "proverb": "Ne fuss olyan szekér után, amelyik nem vesz fel.",
+    "meaning": "Nem érdemes olyan célt hajszolni, mely elérhetetlen./Nem érdemes olyan barát után loholni, aki nem akar barátunk lenni."
+  },
+  {
+    "proverb": "Ne igyál előre a medve bőrére.",
+    "meaning": "Csak akkor örülj, ha elérted célod, elkészültél teljesen a feladattal."
+  },
+  {
+    "proverb": "Ne szólj szám, nem fáj fejem!",
+    "meaning": "Ne nyilatkozz meggondolatlanul!"
+  },
+  {
+    "proverb": "Nehéz szülés volt.",
+    "meaning": "Hosszú, fájdalmas, rögös út vezet a cél eléréséhez, de sikerült megvalósítani."
+  },
+  {
+    "proverb": "Nekem nyolc.",
+    "meaning": "Számomra nem érdekes (szleng), engem nem érint ez a dolog."
+  },
+  {
+    "proverb": "Nem a ruha teszi az embert.",
+    "meaning": "Az emberi értékeket nem a ruha tükrözi."
+  },
+  {
+    "proverb": "Nem ad neki se az ág, se a Jézus segítséget.",
+    "meaning": "Senki sem segít rajta."
+  },
+  {
+    "proverb": "Nem akar tovább menni az á-nál.",
+    "meaning": "Csak éppen belekezdett valamibe, de nem folytatja."
+  },
+  {
+    "proverb": "Nem az a legény, aki üti, hanem aki állja.",
+    "meaning": "Az az ember a bátrabb és kitartóbb, aki elviseli a csapásokat, a sorsát."
+  },
+  {
+    "proverb": "Nem babra megy a játék.",
+    "meaning": "Fontos dologról van szó, nagy tét forog kockán."
+  },
+  {
+    "proverb": "Nem ér egy hajítófát sem.",
+    "meaning": "Teljesen értéktelen, semmire sem használható."
+  },
+  {
+    "proverb": "Nem erőszak a disznótor.",
+    "meaning": "Nem tudunk segítséget adni annak, aki nem fogadja el."
+  },
+  {
+    "proverb": "Nem esett a feje lágyára.",
+    "meaning": "Ügyes, okos, megvan a magához való esze."
+  },
+  {
+    "proverb": "Nem esik messze az alma a fájától.",
+    "meaning": "A gyermek nagyon hasonlít a szüleire, ha szeretne, ha nem."
+  },
+  {
+    "proverb": "Nem fenékig tejföl.",
+    "meaning": "Nem annyira jó, mint amennyire látszik."
+  },
+  {
+    "proverb": "Nem fog aranyon a rozsda.",
+    "meaning": "Nem érheti bántalom vagy kár azt, aki becsületes."
+  },
+  {
+    "proverb": "Nem hajt a tatár!",
+    "meaning": "Ne siess, nincs értelme a sietségnek!"
+  },
+  {
+    "proverb": "Nem jó az ördögöt a falra festeni.",
+    "meaning": "Ha valamit szeretnénk elkerülni, azt nem kell folyton emlegetni."
+  },
+  {
+    "proverb": "Nem jó fejjel menni/rohanni a falnak.",
+    "meaning": "Nem szabad önfejűnek/öntörvényűnek lenni, fájni fog a következménye."
+  },
+  {
+    "proverb": "Nem káptalan a feje.",
+    "meaning": "Nem tudhat mindent, nem emlékezhet mindenre."
+  },
+  {
+    "proverb": "Nem kell a gyereket a fürdővízzel kiönteni.",
+    "meaning": "Nem szabad túllőni a célon a nagy igyekezetben."
+  },
+  {
+    "proverb": "Nem köti másnak az orrára.",
+    "meaning": "Nem mondja el, nem árulja el másnak."
+  },
+  {
+    "proverb": "Nem látja a fától az erdőt.",
+    "meaning": "Elvész a részletekben, nem látja a lényeget, a megoldáshoz vezető utat."
+  },
+  {
+    "proverb": "Nem lehet (Nehéz) két úrnak szolgálni.",
+    "meaning": "Egy szolga sem szolgálhat két úrnak: mert vagy az egyiket gyűlöli és a másikat szereti; vagy az egyikhez ragaszkodik, és a másikat megveti."
+  },
+  {
+    "proverb": "Nem lehet mindent egy kalap alá venni.",
+    "meaning": "Az emberek nem egyformák, nem lehet mindent egyformán megítélni, beskatulyázni."
+  },
+  {
+    "proverb": "Nem lesz belőle énekes halott.",
+    "meaning": "Nem fogja sokra vinni az életben, egy kisebb jelentőségű dolog elkészítése sem fog neki sikerülni."
+  },
+  {
+    "proverb": "Nem mind arany, ami fénylik.",
+    "meaning": "Nem minden értékes, nem minden jó, ami annak látszik."
+  },
+  {
+    "proverb": "Nem minden/mindig papsajt.",
+    "meaning": "Nem sikerülhet minden, nem lehet az embernek mindig jó dolga."
+  },
+  {
+    "proverb": "Nem mindig az arat, aki vet.",
+    "meaning": "Amit csinálunk, annak a következményeit is viselni kell, de nem minden esetben mi élvezzük előnyeit, hasznát."
+  },
+  {
+    "proverb": "Nem nőnek a fák az égig.",
+    "meaning": "Mindennek van határa."
+  },
+  {
+    "proverb": "Nem rejti véka alá a véleményét.",
+    "meaning": "Kimondja amit gondol."
+  },
+  {
+    "proverb": "Nem tesz lakatot a szájára.",
+    "meaning": "Nem titkolja el érzéseit, még akkor is megmondja véleményét, ha az másoknak nem tetszik."
+  },
+  {
+    "proverb": "Nem teszi ki az ablakába.",
+    "meaning": "Nem dicsekszik vele."
+  },
+  {
+    "proverb": "Nem tudja a jobb kéz, mit csinál a bal.",
+    "meaning": "Átgondolatlan döntéseket hoz. Nincs összhang."
+  },
+  {
+    "proverb": "Nem vagyunk angyalok.",
+    "meaning": "Nem vagyunk hibátlanok."
+  },
+  {
+    "proverb": "Nem viszi el szárazon.",
+    "meaning": "Nem marad büntetlenül a tette."
+  },
+  {
+    "proverb": "Nem zörög a haraszt, ha nem fújja a szél.",
+    "meaning": "A pletykának van valami alapja."
+  },
+  {
+    "proverb": "Nem babra megy a játék.",
+    "meaning": "Nagy tét forog kockán."
+  },
+  {
+    "proverb": "Nem enged a negyvennyolcból.",
+    "meaning": "Ragaszkodik az elképzeléséhez."
+  },
+  {
+    "proverb": "Néma gyereknek az anyja sem érti a szavát.",
+    "meaning": "Ha nem mondod ki amit gondolsz, akkor senki sem fog tudni róla."
+  },
+  {
+    "proverb": "Nemakarásnak nyögés a vége.",
+    "meaning": "Ha valamit nem akarsz, akkor az nem is fog sikerülni."
+  },
+  {
+    "proverb": "Nesze semmi, fogd meg jól.",
+    "meaning": "Nem mész semmire azzal amit kapsz."
+  },
+  {
+    "proverb": "Nézd meg az anyját, vedd el a lányát.",
+    "meaning": "A lány is olyan lesz, mint amilyen az anyja."
+  },
+  {
+    "proverb": "Nincs új a nap alatt.",
+    "meaning": "Amit újnak gondolunk, az már korábban is lehetett az."
+  },
+  {
+    "proverb": "Nincsen rózsa tövis nélkül.",
+    "meaning": "Nincsen az életben tökéletes, zavartalan öröm, boldogság."
+  },
+  {
+    "proverb": "Nincsenek otthon nála.",
+    "meaning": "Elment az esze."
+  },
+  {
+    "proverb": "Nyakába veszi a várost.",
+    "meaning": "Gyorsan, futva bejár valamit, végig megy valamin."
+  },
+  {
+    "proverb": "Nyílt/nyitott kártyákkal játszik.",
+    "meaning": "Őszinte, becsületes ember, nincsenek titkai."
+  },
+  {
+    "proverb": "Nyugtával dicsérd a napot.",
+    "meaning": "Ne bízzuk el magunkat, mert csak a végén láthatjuk, hogy mi ér valamit."
+  },
+  {
+    "proverb": "Okos enged, szamár szenved.",
+    "meaning": "Rá kell hagyni, ha valaki makacskodik."
+  },
+  {
+    "proverb": "Olajat önt a tűzre.",
+    "meaning": "Tovább rontja a helyzetét azzal amit mond vagy tesz."
+  },
+  {
+    "proverb": "Olcsó húsnak híg a leve.",
+    "meaning": "Ami olcsó, az általában nem is jó minőségű."
+  },
+  {
+    "proverb": "Olyan fáradt, hogy az ágy sír utána.",
+    "meaning": "Nagyon fáradt, teljesen kimerült."
+  },
+  {
+    "proverb": "Olyan messze van tőle, mint Makó Jeruzsálemtől.",
+    "meaning": "Egész másról beszél. Semmi köze nincs a témához."
+  },
+  {
+    "proverb": "Olyat mondok, hogy magam is megbánom.",
+    "meaning": "Olyan bosszús vagyok, hogy még valami sértőt mondok."
+  },
+  {
+    "proverb": "Ordít, mint a fába szorult féreg.",
+    "meaning": "Kétségbeesetten kiabál."
+  },
+  {
+    "proverb": "Orránál fogva vezet valakit.",
+    "meaning": "Becsap, bolonddá tesz valakit."
+  },
+  {
+    "proverb": "Otthagy csapot, papot.",
+    "meaning": "Hirtelen, búcsúzás nélkül távozik. Munkát félbehagy."
+  },
+  {
+    "proverb": "Otthagyja a fogát.",
+    "meaning": "Meghal (csatában, küldetésben)."
+  },
+  {
+    "proverb": "Ökör iszik magában.",
+    "meaning": "Felszólítás koccintásra. Kellemes dolgokat jó másokkal megosztani."
+  },
+  {
+    "proverb": "Öntsünk tiszta vizet a pohárba.",
+    "meaning": "Hagyjunk fel a mellébeszéléssel."
+  },
+  {
+    "proverb": "Ördöge van valakinek.",
+    "meaning": "Minden sikerül neki, mindenben szerencsés."
+  },
+  {
+    "proverb": "Örül, mint majom a farkának.",
+    "meaning": "Nagyon örül valaminek. (szleng)"
+  },
+  {
+    "proverb": "Össze kell húzni a nadrágszíjat.",
+    "meaning": "Spórolni kell!"
+  },
+  {
+    "proverb": "Összecsapnak a feje fölött a hullámok.",
+    "meaning": "A problémák sokasága lepi el."
+  },
+  {
+    "proverb": "Összeköti a kellemest a hasznossal.",
+    "meaning": "Jól is érzed magad és hasznos is amit csinálsz."
+  },
+  {
+    "proverb": "Pálcát tör valaki felett.",
+    "meaning": "Kedvezőtlen ítéletet mond valakiről."
+  },
+  {
+    "proverb": "Pénz beszél, kutya ugat.",
+    "meaning": "Pénzzel sok minden elérhető."
+  },
+  {
+    "proverb": "Port hint a szemébe.",
+    "meaning": "Félrevezet, becsap valakit."
+  },
+  {
+    "proverb": "Ráhúzza/ráteríti a vizes lepedőt.",
+    "meaning": "Ellátja valaki baját tettel, vagy szavakkal."
+  },
+  {
+    "proverb": "Ráncba szed.",
+    "meaning": "Fegyelmez, rendszabályoz."
+  },
+  {
+    "proverb": "Rátesz még egy lapáttal.",
+    "meaning": "Tovább rontja a helyzetét azzal amit mond vagy tesz."
+  },
+  {
+    "proverb": "Rázza a rongyot.",
+    "meaning": "Dicsekszik a vagyonával."
+  },
+  {
+    "proverb": "Rend a lelke mindennek.",
+    "meaning": "Az eredményes munkának az alapja, a feladatok pontos, precíz elintézése."
+  },
+  {
+    "proverb": "Rendben van a szénája.",
+    "meaning": "Minden rendben van vele."
+  },
+  {
+    "proverb": "Résen van.",
+    "meaning": "Vigyáz, figyel."
+  },
+  {
+    "proverb": "Reszket, mint a kocsonya.",
+    "meaning": "Fél valamitől."
+  },
+  {
+    "proverb": "Ritka, mint a fehér holló.",
+    "meaning": "Különleges dolog."
+  },
+  {
+    "proverb": "Rokonok Ádámról és Éváról.",
+    "meaning": "Olyan távoli rokonok, hogy az már nem is számít igazi rokonságnak."
+  },
+  {
+    "proverb": "Rossz fát tesz a tűzre.",
+    "meaning": "Valami rosszat tesz."
+  },
+  {
+    "proverb": "Rossz szemmel néz valamit.",
+    "meaning": "Kedve ellen van valami. Ellenszenvet vált ki belőle valami."
+  },
+  {
+    "proverb": "Rossz vért szül.",
+    "meaning": "Rossz hatása van, károsan befolyásol."
+  },
+  {
+    "proverb": "Rossz lóra tesz.",
+    "meaning": "Hibásan, rosszul mérte fel a helyzetet."
+  },
+  {
+    "proverb": "Rossz pénz nem vész el.",
+    "meaning": "Nem kell félteni, nem eshet baja."
+  },
+  {
+    "proverb": "Röhög, mint abrakjának a ló.",
+    "meaning": "Csúnyán, hangosan nevet valaki."
+  },
+  {
+    "proverb": "Ruha teszi az embert.",
+    "meaning": "Van aki az ember értékét az öltözete alapján ítéli meg."
+  },
+  {
+    "proverb": "Saját szakállára tesz valamit.",
+    "meaning": "Saját felelősségre csinál valamit."
+  },
+  {
+    "proverb": "Savanyú a szőlő.",
+    "meaning": "Nem tetszik neki valami."
+  },
+  {
+    "proverb": "Se pénz, se posztó.",
+    "meaning": "Hoppon marad. Nem éri el amit remélt és még az is elveszik ami korábban megvolt."
+  },
+  {
+    "proverb": "Se füle, se farka.",
+    "meaning": "Nincs semmi értelme."
+  },
+  {
+    "proverb": "Segíts magadon, az Isten is megsegít.",
+    "meaning": "Csak az boldogul, aki maga is mindent megtesz a cél érdekében."
+  },
+  {
+    "proverb": "Senki sem tud kibújni a saját bőréből.",
+    "meaning": "Amilyennek neveltek, olyan is maradsz."
+  },
+  {
+    "proverb": "Senki sem próféta a saját, maga hazájában.",
+    "meaning": "Közvetlen környezetében nem szokta megkapni az ember a méltó elismerést."
+  },
+  {
+    "proverb": "Senkinek sem repül szájába a sült galamb.",
+    "meaning": "Meg kell dolgozni a sikerért."
+  },
+  {
+    "proverb": "Sóbálvánnyá változott.",
+    "meaning": "A meglepetéstől mozdulatlanná válik."
+  },
+  {
+    "proverb": "Sok babot kell addig megenned.",
+    "meaning": "Sokat kell még nőnöd, erősödnöd vagy okosodnod."
+  },
+  {
+    "proverb": "Sok jó ember kis helyen is elfér.",
+    "meaning": "A jó szándék meghozza a megoldást."
+  },
+  {
+    "proverb": "Sok van a rovásán.",
+    "meaning": "Sok rosszat tett, sok mindenről kell számot adnia."
+  },
+  {
+    "proverb": "Sok az eszkimó, kevés a fóka.",
+    "meaning": "Több az éhes száj, mint az ennivaló."
+  },
+  {
+    "proverb": "Sok bába közt elvész a gyerek.",
+    "meaning": "Ha valamivel túl sokan foglalkoznak, annak nem lesz meg a kívánt eredménye."
+  },
+  {
+    "proverb": "Sok beszédnek sok az alja.",
+    "meaning": "A sok fecsegés közben elvész a lényeg."
+  },
+  {
+    "proverb": "Sok csepp követ váj.",
+    "meaning": "A kicsi, de kitartó cselekvés megtöri a nagy ellenállást is."
+  },
+  {
+    "proverb": "Sok kicsi sokra megy.",
+    "meaning": "Sok kis erőfeszítés nagy eredményt hoz."
+  },
+  {
+    "proverb": "Sok lúd disznót győz.",
+    "meaning": "Gyengébbek is legyőzhetik az erősebbet, ha összefognak."
+  },
+  {
+    "proverb": "Sok víz lefolyik még addig a Dunán.",
+    "meaning": "Soká fog történni valami."
+  },
+  {
+    "proverb": "Sok víz lefolyt azóta a Dunán.",
+    "meaning": "Már régen történt."
+  },
+  {
+    "proverb": "Sokat akar a szarka, de nem bírja a farka.",
+    "meaning": "Túlbecsüli a képességeit."
+  },
+  {
+    "proverb": "Sokat ígér a világ, de keveset ad.",
+    "meaning": "Nem kell minden ígéretnek hinni, nem szabad a vágyat valóságnak tekinteni."
+  },
+  {
+    "proverb": "Sötét, mint az éjszaka.",
+    "meaning": "Nagyon buta."
+  },
+  {
+    "proverb": "Sötétben minden tehén fekete.",
+    "meaning": "Sötétben nem számít a külső."
+  },
+  {
+    "proverb": "Suszter maradjon a kaptafánál!",
+    "meaning": "Azzal foglalkozzunk, amihez értünk."
+  },
+  {
+    "proverb": "Süketek párbeszéde folyik.",
+    "meaning": "Elbeszélnek egymás mellett."
+  },
+  {
+    "proverb": "Szabad a vásár!",
+    "meaning": "Ami korábban tiltva volt, most már lehetséges. Itt a jó alkalom!"
+  },
+  {
+    "proverb": "Szaglál, mint az agár.",
+    "meaning": "Kutat, nyomoz valami után."
+  },
+  {
+    "proverb": "Szájába rág valamit.",
+    "meaning": "Alaposan elmagyaráz valamit."
+  },
+  {
+    "proverb": "Szálka valakinek a szemében.",
+    "meaning": "Nem kedveli, útjában van neki."
+  },
+  {
+    "proverb": "Számot vet.",
+    "meaning": "Tekintetbe vesz, felmér valamit."
+  },
+  {
+    "proverb": "Száz szónak is egy a vége.",
+    "meaning": "Nem érdemes tovább érvelni, vitázni."
+  },
+  {
+    "proverb": "Szegény ember vízzel főz.",
+    "meaning": "A szegény embernek be kell érnie kevéssel."
+  },
+  {
+    "proverb": "Szegény, mint a templom egere.",
+    "meaning": "Nagyon szegény."
+  },
+  {
+    "proverb": "Szegénységi bizonyítványt állít ki magáról.",
+    "meaning": "Alkalmatlanságát bizonyítja."
+  },
+  {
+    "proverb": "Szégyen a futás, de hasznos.",
+    "meaning": "Nem hősies dolog megfutamodni, de néha mégis ez a legokosabb."
+  },
+  {
+    "proverb": "Szélmalomharcot vív.",
+    "meaning": "Kilátástalan küzdelmet folytat."
+  },
+  {
+    "proverb": "Szemesnek áll a világ.",
+    "meaning": "Az ügyes, élelmes ember többnyire sikeres is."
+  },
+  {
+    "proverb": "Szemet szemért, fogat fogért.",
+    "meaning": "Ugyanaz legyen a büntetés, mint ami az elkövetett bűn volt."
+  },
+  {
+    "proverb": "Szemtelen, mint a piaci légy.",
+    "meaning": "Rámenős, nem lehet szabadulni tőle."
+  },
+  {
+    "proverb": "Széna-e vagy szalma?",
+    "meaning": "Annak megtudakolása, hogy kedvezően, vagy kedvezőtlenül dőlt el egy ügy."
+  },
+  {
+    "proverb": "Szénakazalban tűt keres.",
+    "meaning": "Lehetetlen feladatra vállalkozik."
+  },
+  {
+    "proverb": "Szép felé száll a füst, de bolond aki állja.",
+    "meaning": "Vigasztalás annak a nőnek, akit valami kellemetlenség ér."
+  },
+  {
+    "proverb": "Szerencsés csillag alatt született.",
+    "meaning": "Boldog jövőt jövendöltek neki."
+  },
+  {
+    "proverb": "Szidja, mint a bokrot.",
+    "meaning": "Kíméletlenül szid valakit."
+  },
+  {
+    "proverb": "Szíjat hasít a hátából.",
+    "meaning": "Kegyetlenül ellátják a baját."
+  },
+  {
+    "proverb": "Szikrát hány a szeme.",
+    "meaning": "Nagyon mérges."
+  },
+  {
+    "proverb": "Színt vall.",
+    "meaning": "Nyíltan állást foglal, kinyilvánítja véleményét."
+  },
+  {
+    "proverb": "Szó elszáll, írás megmarad.",
+    "meaning": "Az írásbeli megállapodás megbízhatóbb."
+  },
+  {
+    "proverb": "Szöget ütött a fejébe.",
+    "meaning": "Eszébe jutott valami és nem engedi nyugodni a gondolat."
+  },
+  {
+    "proverb": "Szőnyegre kerül.",
+    "meaning": "Napirendre tűzik, el kezdenek tárgyalni valamit."
+  },
+  {
+    "proverb": "Szükség törvényt bont.",
+    "meaning": "Kényszerhelyzetben olyat is megteszünk, amit egyébként soha."
+  },
+  {
+    "proverb": "Tanulj tinó, ökör lesz belőled.",
+    "meaning": "Addig tanulj, amíg fiatal vagy, úgy lesz ember belőled (gúnyos)."
+  },
+  {
+    "proverb": "Tartozott az ördögnek egy úttal.",
+    "meaning": "Feleslegesen ment el."
+  },
+  {
+    "proverb": "Te sem vagy jobb a Deákné vásznánál.",
+    "meaning": "Ugyanolyan rossz vagy mint mások."
+  },
+  {
+    "proverb": "Tele van a hócipője.",
+    "meaning": "Megelégelte."
+  },
+  {
+    "proverb": "Tévedni emberi dolog.",
+    "meaning": "Mindenki tévedhet."
+  },
+  {
+    "proverb": "Tiltott gyümölcs édesebb.",
+    "meaning": "A tiltás kívánatosabbá teszi a dolgokat."
+  },
+  {
+    "proverb": "Tiszta lappal indul.",
+    "meaning": "Az előzményeket nem veszik figyelembe."
+  },
+  {
+    "proverb": "Tótágast áll.",
+    "meaning": "Feje tetején áll."
+  },
+  {
+    "proverb": "Több is veszett Mohácsnál.",
+    "meaning": "Ért már nagyobb veszteség is. (kesernyés vigasztalás)"
+  },
+  {
+    "proverb": "Több nap, mint kolbász.",
+    "meaning": "Oszd be jól, amid van, takarékoskodj!"
+  },
+  {
+    "proverb": "Több szem többet lát.",
+    "meaning": "Egy m\u00e1sik ember azt is \u00e9szreveheti ami nek\u00fcnk elker\u00fclte a figyelm\u00fcnket."
+  },
+  {
+    "proverb": "Több vasat tart a tűzben.",
+    "meaning": "Egyszerre több választási lehetőséget is életben tart, és csak az utolsó pillanatban akar dönteni a legkedvezőbb mellett."
+  },
+  {
+    "proverb": "Többe kerül a leves, mint a hús.",
+    "meaning": "Többe kerülnek a mellékes, járulékos dolgok, mint a fő dolog."
+  },
+  {
+    "proverb": "Többet ésszel, mint erővel.",
+    "meaning": "Gondolkodással többre mész mint az erőszakkal."
+  },
+  {
+    "proverb": "Tudja, hol szorít a cipő.",
+    "meaning": "Tudja mi a baj, hol van a hiba."
+  },
+  {
+    "proverb": "Türelem rózsát terem.",
+    "meaning": "A türelem és kitartás meghozza a várt eredményt."
+  },
+  {
+    "proverb": "Tűt keres a szénakazalban.",
+    "meaning": "Reménytelen vagy óriási feladatra vállalkozik."
+  },
+  {
+    "proverb": "Tűzbe teszi érte a kezét.",
+    "meaning": "Valakiért felelősséget vállal."
+  },
+  {
+    "proverb": "Tűzoltó munkát végez.",
+    "meaning": "Sebtiben, csak a legszükségesebbet végzi el."
+  },
+  {
+    "proverb": "Úgy bánik vele, mint a hímes tojással.",
+    "meaning": "Óvatosan, nagyon vigyázva bánik vele."
+  },
+  {
+    "proverb": "Úgy játszik vele, mint macska az egérrel.",
+    "meaning": "Fölényét kihasználva rászed valakit."
+  },
+  {
+    "proverb": "Úgy szép az élet, ha zajlik.",
+    "meaning": "Ha nem unatkozunk, jobban érezzük magunkat."
+  },
+  {
+    "proverb": "Úgy vigyáz rá, mint a szeme fényére/világára.",
+    "meaning": "Nagy becsben tartja."
+  },
+  {
+    "proverb": "Úgy hazudik, mintha könyvből olvasná.",
+    "meaning": "Gátlástalanul hazudozik."
+  },
+  {
+    "proverb": "Új seprű jól seper.",
+    "meaning": "Az új ember még lelkesen teszi a dolgát. A régi már belefásult."
+  },
+  {
+    "proverb": "Ujjat húz valakivel.",
+    "meaning": "Kikezd valakivel, beleköt valakibe."
+  },
+  {
+    "proverb": "Vág az esze, mint a borotva!",
+    "meaning": "Nagyon okos. (Ironikusan érthető úgy is, hogy valaki nagyon buta.)"
+  },
+  {
+    "proverb": "Vagy megszokik, vagy megszökik.",
+    "meaning": "Nincs átmeneti megoldás, nincsenek variációk. Vagy elfogadod így a helyzetet, vagy kívül rekedsz belőle."
+  },
+  {
+    "proverb": "Vaj van a fején.",
+    "meaning": "Bűnös valamiben."
+  },
+  {
+    "proverb": "Vak tyúk is talál szemet.",
+    "meaning": "Találomra, véletlenszerűen, kevés tudással is el lehet érni eredményeket (de ritkábban)."
+  },
+  {
+    "proverb": "Vak vezet világtalant.",
+    "meaning": "Az akar mást irányítani aki maga is vezetésre szorul."
+  },
+  {
+    "proverb": "Vak, mint a bányaló.",
+    "meaning": "Gondolkodás nélkül teszi a dolgát."
+  },
+  {
+    "proverb": "Vakok között félszemű a király.",
+    "meaning": "Ahol nem ért senki semmihez, ott kis tudással is lehet valaki sikeres."
+  },
+  {
+    "proverb": "Valakinek a malmára hajtja a vizet.",
+    "meaning": "Nem szándékoltan segít valakit."
+  },
+  {
+    "proverb": "Valami van a füle mögött.",
+    "meaning": "Valamit titkol."
+  },
+  {
+    "proverb": "Van már ablakod?",
+    "meaning": "Felébredtél már, felnyitottad már a szemed?"
+  },
+  {
+    "proverb": "Van mit a tejbe aprítani.",
+    "meaning": "Nincsenek anyagi gondjai."
+  },
+  {
+    "proverb": "Van sütnivalója.",
+    "meaning": "Okos."
+  },
+  {
+    "proverb": "Van vér a pucájában.",
+    "meaning": "Bátor. Veszélyt és kockázatokat is vállal, ha kell."
+  },
+  {
+    "proverb": "Vargabetűt csinál.",
+    "meaning": "Nem az egyenes utat választja, hanem akarva, akaratlanul kerülőt tesz."
+  },
+  {
+    "proverb": "Varjú a varjúnak nem vájja ki a szemét.",
+    "meaning": "Az ember az ugyanolyat, mint ő maga, nem fogja bántani."
+  },
+  {
+    "proverb": "Védi a mundér becsületét.",
+    "meaning": "Egy adott csoport (pl. szakma) mellett kiáll."
+  },
+  {
+    "proverb": "Végén csattan az ostor.",
+    "meaning": "A dolgokat a vége határozza meg."
+  },
+  {
+    "proverb": "Vén kecske is megnyalja a sót.",
+    "meaning": "Öreg ember is hajlik a szerelmeskedésre."
+  },
+  {
+    "proverb": "Vér vízzé nem válik.",
+    "meaning": "Értékes ember nem silányul el."
+  },
+  {
+    "proverb": "Veri az ördög a feleségét.",
+    "meaning": "Esik az eső és közben süt a nap."
+  },
+  {
+    "proverb": "Vérszemet kap.",
+    "meaning": "Felbátorodik, merész, szemtelen lesz."
+  },
+  {
+    "proverb": "Vért izzad.",
+    "meaning": "Küzd valamivel, nagy nehézségek árán csinál meg valamit."
+  },
+  {
+    "proverb": "Veszett fejsze nyele.",
+    "meaning": "Ebből a kárból már alig térül meg valami."
+  },
+  {
+    "proverb": "Veszi a lapot.",
+    "meaning": "Megért egy rejtett üzenetet, utalást, sőt ennek alapján cselekszik is."
+  },
+  {
+    "proverb": "Vigyorog, mint a fakutya.",
+    "meaning": "Bután, csúnyán, vagy ok nélkül nevet."
+  },
+  {
+    "proverb": "Vihar egy pohár vízben.",
+    "meaning": "Felesleges nagy felhajtás."
+  },
+  {
+    "proverb": "Világos, mint a vakablak.",
+    "meaning": "Érthető a lényeg. (Gyakran ironikus)"
+  },
+  {
+    "proverb": "Vizet hord a Dunába.",
+    "meaning": "Felesleges munkát végez."
+  },
+  {
+    "proverb": "Vizet prédikál és bort iszik.",
+    "meaning": "Másként cselekszik mint ahogyan beszél."
+  },
+  {
+    "proverb": "Zöld ágra vergődik.",
+    "meaning": "Végre szót ért valakivel. Boldogul az életben."
+  },
+  {
+    "proverb": "Zöld utat kap.",
+    "meaning": "Engedélyeznek neki valamit."
+  },
+  {
+    "proverb": "Zsákbamacskát árul/vesz.",
+    "meaning": "Aki veszi, nem tudja, hogy mit is kap. (Ellentéte: nem árul zsákbamacskát, azaz őszinte, nem titkol.)"
+  }
+]
